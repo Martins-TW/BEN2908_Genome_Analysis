@@ -1,15 +1,13 @@
 from Bio.Align.Applications import MuscleCommandline
 import os
-
-print ("chewie")
+""" Input: OGXXXXXXX.fasta (output from OG_Extractor)
+    Output: OGXXXXXXX.afa (aligned multifasta files)"""
 
 muscle_exe= "muscle"
 
-for filen in os.listdir("/mnt/c/Users/Tobias/Desktop/LAB/Genome_Annoucement_MT78/Phylogenetic_Analysis/Genomes_Ortho/Python_Procedures/Muscle_input"):
-    #print (filen)
-    cline = MuscleCommandline(muscle_exe, input='/mnt/c/Users/Tobias/Desktop/LAB/Genome_Annoucement_MT78/Phylogenetic_Analysis/Genomes_Ortho/Python_Procedures/Muscle_input/' + filen,
-                                              out= '/mnt/c/Users/Tobias/Desktop/LAB/Genome_Annoucement_MT78/Phylogenetic_Analysis/Genomes_Ortho/Python_Procedures/Muscle_output/' + filen[0:9] + ".afa")
+for filen in os.listdir("adress/adress") #change adress
+    cline = MuscleCommandline(muscle_exe, input='adress/address' + filen,
+                                              out= 'address/address' + filen[0:9] + ".afa") #change addresses
     os.system(str(cline))
-
-#print (cline)
+    
 print ("\ndone")
