@@ -1,12 +1,9 @@
 import os
 from Bio import SeqIO 
+""" Input: NameOfTheStrain.fasta (merged multifasta file with all the outputs from afa_conatenator)
+    Output: NameOfTheStrain.phy (a .phylip file for RAxML input)"""
 
-#muscle_exe= "muscle"
-
-afa_records = SeqIO.parse("Single_gene/fimH_tree_strains_protein_sequences.txt","fasta")
-phy_records = SeqIO.write(afa_records, "Raxml_input_SG/fimH_tree_strains_protein_sequences.phy", "phylip")
-
-
-#C:\Users\Tobias\Desktop\LAB\Genome_Annoucement_MT78\Phylogenetic_Analysis\Genomes_Ortho\Python_Procedures\Single_gene
+afa_records = SeqIO.parse("address/address/File.txt","fasta") #change address
+phy_records = SeqIO.write(afa_records, "address/address/File.phy", "phylip") #change address
 
 print ("\ndone")
