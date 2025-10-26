@@ -1,0 +1,12 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3314	CDS	LR740776.1	3338040	3338621	582	Modulator of drug activity B	- none -	3338040	3338621	
+fig|6666666.541064.peg.3315	CDS	LR740776.1	3338652	3338966	315	FIG00896075: hypothetical protein	- none -	3338652	3338966	
+fig|6666666.541064.peg.3316	CDS	LR740776.1	3339898	3339011	888	FIG00732392: hypothetical protein	- none -	3339011	3339898	
+fig|6666666.541064.peg.3317	CDS	LR740776.1	3340842	3339895	948	Putative iron compound-binding protein of ABC transporter family	- none -	3339895	3340842	
+fig|6666666.541064.peg.3318	CDS	LR740776.1	3341890	3340853	1038	putative permease of ferrichrome ABC transporter	- none -	3340853	3341890	
+fig|6666666.541064.peg.3319	CDS	LR740776.1	3342882	3341899	984	Putative iron compound permease protein of ABC transporter family	- none -	3341899	3342882	
+fig|6666666.541064.peg.3320	CDS	LR740776.1	3343688	3342879	810	transport; Transport of small molecules: Cations	- none -	3342879	3343688	
+fig|6666666.541064.peg.3321	CDS	LR740776.1	3343887	3343768	120	hypothetical protein	- none -	3343768	3343887	
+fig|6666666.541064.peg.3322	CDS	LR740776.1	3344062	3346203	2142	Ferrichrome-iron receptor	- none -	3344062	3346203	
+fig|6666666.541064.peg.3323	CDS	LR740776.1	3348159	3346267	1893	Topoisomerase IV subunit B (EC 5.99.1.-)	CBSS-342610.3.peg.1794, DNA topoisomerases, Type II, ATP-dependent, Resistance to fluoroquinolones	3346267	3348159	
+fig|6666666.541064.peg.3324	CDS	LR740776.1	3348769	3348188	582	Putative esterase, FIGfam005057	CBSS-342610.3.peg.1794	3348188	3348769	

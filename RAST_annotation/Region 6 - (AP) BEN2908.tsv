@@ -1,0 +1,19 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End
+fig|6666666.541064.peg.671	CDS	LR740776.1	698275	697475	801	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	Chitin and N-acetylglucosamine utilization, Sialic Acid Metabolism	697475	698275
+fig|6666666.541064.peg.672	CDS	LR740776.1	698449	698324	126	hypothetical protein	- none -	698324	698449
+fig|6666666.541064.peg.673	CDS	LR740776.1	698608	700554	1947	PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.69) / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.69) / PTS system, N-acetylglucosamine-specific IIC component (EC 2.7.1.69)	Chitin and N-acetylglucosamine utilization, Chitin and N-acetylglucosamine utilization, Chitin and N-acetylglucosamine utilization, Sialic Acid Metabolism, Sialic Acid Metabolism, Sialic Acid Metabolism	698608	700554
+fig|6666666.541064.peg.674	CDS	LR740776.1	701923	700643	1281	Transporter	- none -	700643	701923
+fig|6666666.541064.peg.675	CDS	LR740776.1	702407	701937	471	probable beta-D-galactosidase	Galactosylceramide and Sulfatide metabolism	701937	702407
+fig|6666666.541064.peg.676	CDS	LR740776.1	703573	702404	1170	expressed protein	- none -	702404	703573
+fig|6666666.541064.peg.677	CDS	LR740776.1	703925	703638	288	Putative transport protein	- none -	703638	703925
+fig|6666666.541064.peg.678	CDS	LR740776.1	704239	703973	267	Mobile element protein	- none -	703973	704239
+fig|6666666.541064.peg.679	CDS	LR740776.1	704668	704369	300	Mobile element protein	- none -	704369	704668
+fig|6666666.541064.peg.680	CDS	LR740776.1	704869	704702	168	Putative transport protein	- none -	704702	704869
+fig|6666666.541064.peg.681	CDS	LR740776.1	705816	704929	888	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	Lysine Biosynthesis DAP Pathway, Lysine Biosynthesis DAP Pathway, GJO scratch	704929	705816
+fig|6666666.541064.peg.682	CDS	LR740776.1	706977	705820	1158	Alcohol dehydrogenase (EC 1.1.1.1)	5-FCL-like protein, Butanol Biosynthesis, Fermentations: Mixed acid, Glycerolipid and Glycerophospholipid Metabolism in Bacteria	705820	706977
+fig|6666666.541064.peg.683	CDS	LR740776.1	707147	708382	1236	hypothetical protein	- none -	707147	708382
+fig|6666666.541064.peg.684	CDS	LR740776.1	708375	709361	987	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)	EC49-61, ECSIG4-SIG7, Possible RNA modification and stress response cluster, Pyridoxin (Vitamin B6) Biosynthesis	708375	709361
+fig|6666666.541064.peg.685	CDS	LR740776.1	709393	710124	732	Glycerol-3-phosphate regulon repressor	- none -	709393	710124
+fig|6666666.541064.peg.686	CDS	LR740776.1	710344	712008	1665	Glutaminyl-tRNA synthetase (EC 6.1.1.18)	tRNA aminoacylation, Glu and Gln	710344	712008
+fig|6666666.541064.peg.687	CDS	LR740776.1	712172	712011	162	FIG00641597: hypothetical protein	- none -	712011	712172
+fig|6666666.541064.peg.688	CDS	LR740776.1	712457	713863	1407	N-acetylglucosamine-regulated outer membrane porin	Chitin and N-acetylglucosamine utilization	712457	713863

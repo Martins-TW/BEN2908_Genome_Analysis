@@ -1,0 +1,10 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.350	CDS	LR740776.1	363736	364431	696	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG	Lactate utilization	363736	364431	
+fig|6666666.541064.peg.351	CDS	LR740776.1	365342	364674	669	FIG00639487: hypothetical protein	- none -	364674	365342	
+fig|6666666.541064.peg.352	CDS	LR740776.1	367823	365526	2298	FIG00637878: hypothetical protein	- none -	365526	367823	
+fig|6666666.541064.peg.353	CDS	LR740776.1	368416	367865	552	FIG00638775: hypothetical protein	- none -	367865	368416	
+fig|6666666.541064.peg.354	CDS	LR740776.1	369574	368780	795	FIG00639238: hypothetical protein	- none -	368780	369574	
+fig|6666666.541064.peg.355	CDS	LR740776.1	369593	369456	138	orf; Unknown function	- none -	369456	369593	
+fig|6666666.541064.peg.356	CDS	LR740776.1	370467	369904	564	Probable DNA recombinase	- none -	369904	370467	
+fig|6666666.541064.peg.357	CDS	LR740776.1	373226	371538	1689	Choline dehydrogenase (EC 1.1.99.1)	Choline and Betaine Uptake and Betaine Biosynthesis, Choline uptake and conversion to betaine clusters	371538	373226	
+fig|6666666.541064.peg.358	CDS	LR740776.1	374712	373240	1473	Betaine aldehyde dehydrogenase (EC 1.2.1.8)	Choline and Betaine Uptake and Betaine Biosynthesis, Choline uptake and conversion to betaine clusters	373240	374712	

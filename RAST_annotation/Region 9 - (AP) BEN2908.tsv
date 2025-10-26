@@ -1,0 +1,11 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.1229	CDS	LR740776.1	1242998	1242264	735	Inner membrane protein	- none -	1242264	1242998	
+fig|6666666.541064.peg.1230	CDS	LR740776.1	1243199	1243453	255	UPF0410 protein YmgE	- none -	1243199	1243453	
+fig|6666666.541064.peg.1231	CDS	LR740776.1	1245473	1243503	1971	Putative TonB dependent outer membrane receptor	- none -	1243503	1245473	
+fig|6666666.541064.peg.1232	CDS	LR740776.1	1246353	1245499	855	Molybdenum transport system protein ModD	Molybdenum cofactor biosynthesis	1245499	1246353	
+fig|6666666.541064.peg.1233	CDS	LR740776.1	1247162	1246350	813	Orf2	- none -	1246350	1247162	
+fig|6666666.541064.peg.1234	CDS	LR740776.1	1247930	1247172	759	ABC-type hemin transport system, ATPase component	Heme, hemin uptake and utilization systems in GramNegatives, Hemin transport system	1247172	1247930	
+fig|6666666.541064.peg.1235	CDS	LR740776.1	1248907	1247927	981	ABC-type Fe3+-siderophore transport system, permease component	- none -	1247927	1248907	
+fig|6666666.541064.peg.1236	CDS	LR740776.1	1249884	1248907	978	ABC transporter, solute-binding protein	- none -	1248907	1249884	
+fig|6666666.541064.peg.1237	CDS	LR740776.1	1251963	1250266	1698	Trehalase (EC 3.2.1.28)	Trehalose Uptake and Utilization	1250266	1251963	
+fig|6666666.541064.peg.1238	CDS	LR740776.1	1251977	1252123	147	FIG00638384: hypothetical protein	- none -	1251977	1252123	

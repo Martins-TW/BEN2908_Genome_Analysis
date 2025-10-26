@@ -1,0 +1,9 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.1471	CDS	LR740776.1	1474331	1474516	186	Uncharacterized protein ynbE; probable lipoprotein STY1424	CBSS-314225.3.peg.1533, CBSS-314225.3.peg.1533	1474331	1474516	
+fig|6666666.541064.peg.1472	CDS	LR740776.1	1474581	1474850	270	Putative uncharacterized protein ydbL, may be related to amine metabolism	CBSS-314225.3.peg.1533	1474581	1474850	
+fig|6666666.541064.peg.1473	CDS	LR740776.1	1475580	1475467	114	hypothetical protein	- none -	1475467	1475580	
+fig|6666666.541064.peg.1474	CDS	LR740776.1	1475867	1475706	162	FIG00638515: hypothetical protein	- none -	1475706	1475867	
+fig|6666666.541064.peg.1475	CDS	LR740776.1	1475829	1483100	7272	BigB	- none -	1475829	1483100	
+fig|6666666.541064.peg.1476	CDS	LR740776.1	1483320	1484180	861	Aldo-keto reductase	- none -	1483320	1484180	
+fig|6666666.541064.peg.1477	CDS	LR740776.1	1484479	1485084	606	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	BarA-UvrY(SirA) two-component regulatory system, CBSS-316407.3.peg.1371, Glycerolipid and Glycerophospholipid Metabolism in Bacteria	1484479	1485084	
+fig|6666666.541064.peg.1478	CDS	LR740776.1	1485084	1485980	897	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	CBSS-316407.3.peg.1371, Glycerolipid and Glycerophospholipid Metabolism in Bacteria	1485084	1485980	

@@ -1,0 +1,10 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.4352	CDS	LR740776.1	4384748	4385908	1161	Cystathionine gamma-synthase (EC 2.5.1.48)	L-Cystine Uptake and Metabolism, Methionine Biosynthesis	4384748	4385908	
+fig|6666666.541064.peg.4353	CDS	LR740776.1	4385911	4388343	2433	Aspartokinase (EC 2.7.2.4) / Homoserine dehydrogenase (EC 1.1.1.3)	CBSS-216591.1.peg.168, Lysine Biosynthesis DAP Pathway, Lysine Biosynthesis DAP Pathway, GJO scratch, Methionine Biosynthesis, Threonine and Homoserine Biosynthesis, Threonine and Homoserine Biosynthesis	4385911	4388343	
+fig|6666666.541064.peg.4354	CDS	LR740776.1	4389421	4388561	861	Nucleoside-specific channel-forming protein Tsx precursor	- none -	4388561	4389421	
+fig|6666666.541064.peg.4355	CDS	LR740776.1	4391117	4389498	1620	5'-nucleotidase (EC 3.1.3.5)	Purine conversions, pyrimidine conversions	4389498	4391117	
+fig|6666666.541064.peg.4356	CDS	LR740776.1	4392708	4391158	1551	5'-nucleotidase (EC 3.1.3.5)	Purine conversions, pyrimidine conversions	4391158	4392708	
+fig|6666666.541064.peg.4357	CDS	LR740776.1	4394065	4392941	1125	FIG074102: hypothetical protein	- none -	4392941	4394065	
+fig|6666666.541064.peg.4358	CDS	LR740776.1	4394198	4395751	1554	5'-nucleotidase (EC 3.1.3.5)	Purine conversions, pyrimidine conversions	4394198	4395751	
+fig|6666666.541064.peg.4359	CDS	LR740776.1	4396133	4397023	891	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	5-FCL-like protein, Methionine Biosynthesis, One-carbon metabolism by tetrahydropterines, Serine-glyoxylate cycle	4396133	4397023	
+fig|6666666.541064.peg.4360	CDS	LR740776.1	4397352	4399532	2181	Catalase (EC 1.11.1.6) / Peroxidase (EC 1.11.1.7)	Oxidative stress, Oxidative stress, Protection from Reactive Oxygen Species, Protection from Reactive Oxygen Species	4397352	4399532	

@@ -1,0 +1,81 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.1297	CDS	LR740776.1	1313468	1312725	744	Membrane protein YciC, linked to IspA	Intracellular septation in Enterobacteria	1312725	1313468	
+fig|6666666.541064.peg.1298	CDS	LR740776.1	1313586	1313705	120	hypothetical protein	- none -	1313586	1313705	
+fig|6666666.541064.peg.1299	CDS	LR740776.1	1313824	1314477	654	Outer membrane protein W precursor	- none -	1313824	1314477	
+fig|6666666.541064.peg.1300	CDS	LR740776.1	1315653	1314523	1131	Mobile element protein	- none -	1314523	1315653	
+fig|6666666.541064.peg.1301	CDS	LR740776.1	1318415	1315944	2472	Exodeoxyribonuclease encoded by cryptic prophage CP-933P	- none -	1315944	1318415	
+fig|6666666.541064.peg.1302	CDS	LR740776.1	1318699	1318508	192	FIG00637919: hypothetical protein	- none -	1318508	1318699	
+fig|6666666.541064.peg.1303	CDS	LR740776.1	1318884	1318696	189	Division inhibition protein dicB	- none -	1318696	1318884	
+fig|6666666.541064.peg.1304	CDS	LR740776.1	1318913	1319032	120	hypothetical protein	- none -	1318913	1319032	
+fig|6666666.541064.peg.1305	CDS	LR740776.1	1319201	1319413	213	FIG00639218: hypothetical protein	- none -	1319201	1319413	
+fig|6666666.541064.peg.1306	CDS	LR740776.1	1319456	1319734	279	FIG00643035: hypothetical protein	- none -	1319456	1319734	
+fig|6666666.541064.peg.1307	CDS	LR740776.1	1320095	1319694	402	FIG00641934: hypothetical protein	- none -	1319694	1320095	
+fig|6666666.541064.peg.1308	CDS	LR740776.1	1320336	1320118	219	FIG00637981: hypothetical protein	- none -	1320118	1320336	
+fig|6666666.541064.peg.1309	CDS	LR740776.1	1320494	1320366	129	hypothetical protein	- none -	1320366	1320494	
+fig|6666666.541064.peg.1310	CDS	LR740776.1	1320651	1320496	156	Mobile element protein	- none -	1320496	1320651	
+fig|6666666.541064.peg.1311	CDS	LR740776.1	1321365	1320904	462	FIG00638576: hypothetical protein	- none -	1320904	1321365	
+fig|6666666.541064.peg.1312	CDS	LR740776.1	1321563	1321748	186	unknown protein encoded by cryptic prophage CP-933M	- none -	1321563	1321748	
+fig|6666666.541064.peg.1313	CDS	LR740776.1	1321732	1322157	426	Phage or Prophage Related	- none -	1321732	1322157	
+fig|6666666.541064.peg.1314	CDS	LR740776.1	1322229	1323269	1041	Primosomal protein I	- none -	1322229	1323269	
+fig|6666666.541064.peg.1315	CDS	LR740776.1	1323301	1323723	423	putative phage replication protein	- none -	1323301	1323723	
+fig|6666666.541064.peg.1316	CDS	LR740776.1	1323757	1324527	771	hypothetical protein	- none -	1323757	1324527	
+fig|6666666.541064.peg.1317	CDS	LR740776.1	1324543	1324968	426	LygF	- none -	1324543	1324968	
+fig|6666666.541064.peg.1318	CDS	LR740776.1	1325242	1325808	567	FIG053235: Diacylglucosamine hydrolase like	Llipid A biosynthesis cluster	1325242	1325808	
+fig|6666666.541064.peg.1319	CDS	LR740776.1	1327010	1328101	1092	FIG00640292: hypothetical protein	- none -	1327010	1328101	
+fig|6666666.541064.peg.1320	CDS	LR740776.1	1328259	1328432	174	conserved hypothetical protein	- none -	1328259	1328432	
+fig|6666666.541064.peg.1321	CDS	LR740776.1	1328492	1328764	273	orf, conserved hypothetical protein	- none -	1328492	1328764	
+fig|6666666.541064.peg.1322	CDS	LR740776.1	1328766	1329812	1047	Phage antitermination protein Q	Phage nin genes - N-independent survival	1328766	1329812	
+fig|6666666.541064.peg.1323	CDS	LR740776.1	1329825	1330184	360	Holliday junction resolvase / Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-)	- none -	1329825	1330184	
+fig|6666666.541064.peg.1324	CDS	LR740776.1	1330181	1330870	690	Phage antitermination protein Q	Phage nin genes - N-independent survival	1330181	1330870	
+fig|6666666.541064.peg.1325	CDS	LR740776.1	1331017	1331781	765	protein kinase domain protein	- none -	1331017	1331781	
+fig|6666666.541064.peg.1326	CDS	LR740776.1	1331937	1332521	585	Protein serine/threonine phosphatase PrpC, regulation of stationary phase	Conserved gene cluster associated with Met-tRNA formyltransferase	1331937	1332521	
+fig|6666666.541064.peg.1327	CDS	LR740776.1	1332689	1332958	270	probable DNA methylase	- none -	1332689	1332958	
+fig|6666666.541064.rna.31	RNA	LR740776.1	1333008	1333083	76	tRNA-Met-CAT	- none -	1333008	1333083	
+fig|6666666.541064.rna.32	RNA	LR740776.1	1333181	1333257	77	tRNA-Arg-TCT	- none -	1333181	1333257	
+fig|6666666.541064.peg.1328	CDS	LR740776.1	1334232	1336085	1854	Mobile element protein	- none -	1334232	1336085	
+fig|6666666.541064.peg.1329	CDS	LR740776.1	1336236	1336451	216	Phage holin #lysis protein S	Phage lysis modules	1336236	1336451	
+fig|6666666.541064.peg.1330	CDS	LR740776.1	1336456	1336800	345	FIG00638659: hypothetical protein	- none -	1336456	1336800	
+fig|6666666.541064.peg.1331	CDS	LR740776.1	1337038	1336766	273	FIG00639973: hypothetical protein	- none -	1336766	1337038	
+fig|6666666.541064.peg.1332	CDS	LR740776.1	1337144	1337260	117	hypothetical protein	- none -	1337144	1337260	
+fig|6666666.541064.peg.1333	CDS	LR740776.1	1337297	1337788	492	Mobile element protein	- none -	1337297	1337788	
+fig|6666666.541064.peg.1334	CDS	LR740776.1	1338595	1338711	117	Mobile element protein	- none -	1338595	1338711	
+fig|6666666.541064.peg.1335	CDS	LR740776.1	1338766	1339521	756	Mobile element protein	- none -	1338766	1339521	
+fig|6666666.541064.peg.1336	CDS	LR740776.1	1339521	1339901	381	Mobile element protein	- none -	1339521	1339901	
+fig|6666666.541064.peg.1337	CDS	LR740776.1	1340011	1340373	363	Phage lysin, 1,4-beta-N-acetylmuramidase (EC 3.2.1.17) or lysozyme	Phage lysis modules	1340011	1340373	
+fig|6666666.541064.peg.1338	CDS	LR740776.1	1340566	1340712	147	hypothetical protein	- none -	1340566	1340712	
+fig|6666666.541064.peg.1339	CDS	LR740776.1	1340727	1340858	132	hypothetical protein	- none -	1340727	1340858	
+fig|6666666.541064.peg.1340	CDS	LR740776.1	1340870	1341328	459	Phage endopeptidase	- none -	1340870	1341328	
+fig|6666666.541064.peg.1341	CDS	LR740776.1	1341679	1341819	141	hypothetical protein	- none -	1341679	1341819	
+fig|6666666.541064.peg.1342	CDS	LR740776.1	1342266	1342153	114	FIG00638494: hypothetical protein	- none -	1342153	1342266	
+fig|6666666.541064.peg.1343	CDS	LR740776.1	1342525	1343073	549	Terminase small subunit	- none -	1342525	1343073	
+fig|6666666.541064.peg.1344	CDS	LR740776.1	1343225	1344973	1749	Phage terminase, large subunit	Phage packaging machinery	1343225	1344973	
+fig|6666666.541064.peg.1345	CDS	LR740776.1	1344957	1345163	207	Phage head-to-tail joining protein	- none -	1344957	1345163	
+fig|6666666.541064.peg.1346	CDS	LR740776.1	1345160	1346752	1593	Phage portal protein	Phage packaging machinery	1345160	1346752	
+fig|6666666.541064.peg.1347	CDS	LR740776.1	1346742	1348247	1506	Phage capsid and scaffold	Phage capsid proteins	1346742	1348247	
+fig|6666666.541064.peg.1348	CDS	LR740776.1	1348284	1348631	348	Head decoration protein	- none -	1348284	1348631	
+fig|6666666.541064.peg.1349	CDS	LR740776.1	1348689	1349717	1029	Phage major capsid protein	Phage capsid proteins	1348689	1349717	
+fig|6666666.541064.peg.1350	CDS	LR740776.1	1349769	1350152	384	Phage DNA-packaging protein	Phage packaging machinery	1349769	1350152	
+fig|6666666.541064.peg.1351	CDS	LR740776.1	1350145	1350498	354	Phage capsid and scaffold	Phage capsid proteins	1350145	1350498	
+fig|6666666.541064.peg.1352	CDS	LR740776.1	1350514	1351047	534	Minor tail protein Z	- none -	1350514	1351047	
+fig|6666666.541064.peg.1353	CDS	LR740776.1	1351044	1351439	396	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1351044	1351439	
+fig|6666666.541064.peg.1354	CDS	LR740776.1	1351447	1352199	753	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1351447	1352199	
+fig|6666666.541064.peg.1355	CDS	LR740776.1	1352213	1352644	432	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1352213	1352644	
+fig|6666666.541064.peg.1356	CDS	LR740776.1	1352695	1353084	390	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1352695	1353084	
+fig|6666666.541064.peg.1357	CDS	LR740776.1	1353065	1353637	573	Phage tail length tape-measure protein 1	Phage tail proteins, Phage tail proteins 2	1353065	1353637	
+fig|6666666.541064.peg.1358	CDS	LR740776.1	1353637	1355637	2001	Phage tail length tape-measure protein 1	Phage tail proteins, Phage tail proteins 2	1353637	1355637	
+fig|6666666.541064.peg.1359	CDS	LR740776.1	1355634	1355963	330	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1355634	1355963	
+fig|6666666.541064.peg.1360	CDS	LR740776.1	1355963	1356661	699	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1355963	1356661	
+fig|6666666.541064.peg.1361	CDS	LR740776.1	1356672	1357415	744	Phage tail assembly protein	Phage tail proteins, Phage tail proteins 2	1356672	1357415	
+fig|6666666.541064.peg.1362	CDS	LR740776.1	1357412	1357993	582	Phage tail assembly protein I	Phage tail proteins, Phage tail proteins 2	1357412	1357993	
+fig|6666666.541064.peg.1363	CDS	LR740776.1	1358337	1361810	3474	Phage tail fiber protein	Phage tail fiber proteins	1358337	1361810	
+fig|6666666.541064.peg.1364	CDS	LR740776.1	1361878	1362477	600	Attachment invasion locus protein precursor	- none -	1361878	1362477	
+fig|6666666.541064.peg.1365	CDS	LR740776.1	1363863	1363126	738	Phage tail fiber protein	Phage tail fiber proteins	1363126	1363863	
+fig|6666666.541064.peg.1366	CDS	LR740776.1	1363913	1363752	162	hypothetical protein	- none -	1363752	1363913	
+fig|6666666.541064.peg.1367	CDS	LR740776.1	1363821	1364033	213	Phage tail fiber protein	Phage tail fiber proteins	1363821	1364033	
+fig|6666666.541064.peg.1368	CDS	LR740776.1	1363994	1365655	1662	Phage tail fiber protein	Phage tail fiber proteins	1363994	1365655	
+fig|6666666.541064.peg.1369	CDS	LR740776.1	1365655	1366239	585	Phage tail fiber assembly protein	Phage tail fiber proteins, Prophage cluster in the proteobacteria	1365655	1366239	
+fig|6666666.541064.peg.1370	CDS	LR740776.1	1366725	1366294	432	Putative SAM-dependent methyltransferases	- none -	1366294	1366725	
+fig|6666666.541064.peg.1371	CDS	LR740776.1	1367019	1367288	270	Phage tail fiber assembly protein	Phage tail fiber proteins, Prophage cluster in the proteobacteria	1367019	1367288	
+fig|6666666.541064.peg.1372	CDS	LR740776.1	1367403	1367573	171	Phage tail fiber assembly protein	Phage tail fiber proteins, Prophage cluster in the proteobacteria	1367403	1367573	
+fig|6666666.541064.peg.1373	CDS	LR740776.1	1368567	1368061	507	Protein YciE	- none -	1368061	1368567	
+fig|6666666.541064.peg.1374	CDS	LR740776.1	1369134	1368613	522	Protein yciF	- none -	1368613	1369134	

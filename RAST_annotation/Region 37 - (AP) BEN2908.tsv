@@ -1,0 +1,63 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.4931	CDS	LR740776.1	4982691	4983137	447	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)	Bacterial RNA-metabolizing Zn-dependent hydrolases, Conserved gene cluster associated with Met-tRNA formyltransferase, Possible RNA modification and stress response cluster, Ribosome biogenesis bacterial, YrdC-YciO-Sua5 protein family	4982691	4983137	
+fig|6666666.541064.peg.4932	CDS	LR740776.1	4983152	4983829	678	5'-nucleotidase YjjG (EC 3.1.3.5)	Housecleaning nucleoside triphosphate pyrophosphatases	4983152	4983829	
+fig|6666666.541064.peg.4933	CDS	LR740776.1	4984215	4985438	1224	Integrase	- none -	4984215	4985438	
+fig|6666666.541064.peg.4934	CDS	LR740776.1	4985724	4986443	720	hypothetical protein	- none -	4985724	4986443	
+fig|6666666.541064.peg.4935	CDS	LR740776.1	4987540	4986920	621	FIG00639676: hypothetical protein	- none -	4986920	4987540	
+fig|6666666.541064.peg.4936	CDS	LR740776.1	4987881	4987540	342	Eae protein	- none -	4987540	4987881	
+fig|6666666.541064.peg.4937	CDS	LR740776.1	4988429	4987893	537	Hypothetical protein yfdR	- none -	4987893	4988429	
+fig|6666666.541064.peg.4938	CDS	LR740776.1	4989015	4988557	459	FIG00642676: hypothetical protein	- none -	4988557	4989015	
+fig|6666666.541064.peg.4939	CDS	LR740776.1	4989379	4989041	339	FIG00642676: hypothetical protein	- none -	4989041	4989379	
+fig|6666666.541064.peg.4940	CDS	LR740776.1	4989807	4989445	363	FIG00638873: hypothetical protein	- none -	4989445	4989807	
+fig|6666666.541064.peg.4941	CDS	LR740776.1	4991150	4990476	675	putative phage repressor	- none -	4990476	4991150	
+fig|6666666.541064.peg.4942	CDS	LR740776.1	4991241	4991441	201	hypothetical protein	- none -	4991241	4991441	
+fig|6666666.541064.peg.4943	CDS	LR740776.1	4991485	4992036	552	FIG00639586: hypothetical protein	- none -	4991485	4992036	
+fig|6666666.541064.peg.4944	CDS	LR740776.1	4992033	4992869	837	putative antirepressor	- none -	4992033	4992869	
+fig|6666666.541064.peg.4945	CDS	LR740776.1	4992862	4993098	237	FIG00638770: hypothetical protein	- none -	4992862	4993098	
+fig|6666666.541064.peg.4946	CDS	LR740776.1	4993101	4993913	813	Primosomal protein I	- none -	4993101	4993913	
+fig|6666666.541064.peg.4947	CDS	LR740776.1	4993916	4994404	489	FIG00641663: hypothetical protein	- none -	4993916	4994404	
+fig|6666666.541064.peg.4948	CDS	LR740776.1	4994395	4994730	336	SOS-response repressor and protease LexA (EC 3.4.21.88)	DNA repair, bacterial, DNA repair, bacterial UmuCD system	4994395	4994730	
+fig|6666666.541064.peg.4949	CDS	LR740776.1	4994727	4995116	390	Holliday junction resolvase / Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-)	- none -	4994727	4995116	
+fig|6666666.541064.peg.4950	CDS	LR740776.1	4995136	4995933	798	Phage-related protein	- none -	4995136	4995933	
+fig|6666666.541064.peg.4951	CDS	LR740776.1	4996013	4996930	918	Putative cytoplasmic protein	- none -	4996013	4996930	
+fig|6666666.541064.peg.4952	CDS	LR740776.1	4996944	4997696	753	Phage antitermination protein Q	Phage nin genes - N-independent survival	4996944	4997696	
+fig|6666666.541064.peg.4953	CDS	LR740776.1	4998324	4998112	213	Cold shock protein CspF	Cold shock, CspA family of proteins	4998112	4998324	
+fig|6666666.541064.peg.4954	CDS	LR740776.1	4998625	4998840	216	Cold shock protein CspB	Cold shock, CspA family of proteins	4998625	4998840	
+fig|6666666.541064.peg.4955	CDS	LR740776.1	4999602	4999808	207	Phage holin #lysis protein S	Phage lysis modules	4999602	4999808	
+fig|6666666.541064.peg.4956	CDS	LR740776.1	4999813	5000364	552	FIG00638659: hypothetical protein	- none -	4999813	5000364	
+fig|6666666.541064.peg.4957	CDS	LR740776.1	5000686	5001219	534	Phage lysin, 1,4-beta-N-acetylmuramidase (EC 3.2.1.17) or lysozyme	Phage lysis modules	5000686	5001219	
+fig|6666666.541064.peg.4958	CDS	LR740776.1	5001216	5001713	498	FIG00639844: hypothetical protein	- none -	5001216	5001713	
+fig|6666666.541064.peg.4959	CDS	LR740776.1	5002077	5002289	213	Cold shock protein CspG	Cold shock, CspA family of proteins	5002077	5002289	
+fig|6666666.541064.peg.4960	CDS	LR740776.1	5002964	5003137	174	GnsB protein	- none -	5002964	5003137	
+fig|6666666.541064.peg.4961	CDS	LR740776.1	5004192	5004683	492	FIG00638450: hypothetical protein	- none -	5004192	5004683	
+fig|6666666.541064.peg.4962	CDS	LR740776.1	5004683	5006785	2103	Phage terminase, large subunit	Phage packaging machinery	5004683	5006785	
+fig|6666666.541064.peg.4963	CDS	LR740776.1	5006782	5006994	213	FIG00638989: hypothetical protein	- none -	5006782	5006994	
+fig|6666666.541064.peg.4964	CDS	LR740776.1	5006994	5008502	1509	Phage portal protein	Phage packaging machinery	5006994	5008502	
+fig|6666666.541064.peg.4965	CDS	LR740776.1	5008516	5010474	1959	Prophage Clp protease-like protein	cAMP signaling in bacteria	5008516	5010474	
+fig|6666666.541064.peg.4966	CDS	LR740776.1	5010561	5010884	324	FIG00638505: hypothetical protein	- none -	5010561	5010884	
+fig|6666666.541064.peg.4967	CDS	LR740776.1	5010877	5011152	276	FIG00638599: hypothetical protein	- none -	5010877	5011152	
+fig|6666666.541064.peg.4968	CDS	LR740776.1	5011164	5011742	579	Phage tail completion protein	Phage tail proteins, Phage tail proteins 2	5011164	5011742	
+fig|6666666.541064.peg.4969	CDS	LR740776.1	5011739	5012140	402	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	5011739	5012140	
+fig|6666666.541064.peg.4970	CDS	LR740776.1	5012151	5012894	744	Phage tail assembly	Phage tail proteins, Phage tail proteins 2	5012151	5012894	
+fig|6666666.541064.peg.4971	CDS	LR740776.1	5012955	5013341	387	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	5012955	5013341	
+fig|6666666.541064.peg.4972	CDS	LR740776.1	5013362	5013679	318	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	5013362	5013679	
+fig|6666666.541064.peg.4973	CDS	LR740776.1	5013651	5016716	3066	Phage tail length tape-measure protein 1	Phage tail proteins, Phage tail proteins 2	5013651	5016716	
+fig|6666666.541064.peg.4974	CDS	LR740776.1	5016716	5017045	330	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	5016716	5017045	
+fig|6666666.541064.peg.4975	CDS	LR740776.1	5017055	5017681	627	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	5017055	5017681	
+fig|6666666.541064.peg.4976	CDS	LR740776.1	5017862	5017984	123	Phage tail assembly protein	Phage tail proteins, Phage tail proteins 2	5017862	5017984	
+fig|6666666.541064.peg.4977	CDS	LR740776.1	5018028	5018495	468	Phage tail assembly protein	Phage tail proteins, Phage tail proteins 2	5018028	5018495	
+fig|6666666.541064.peg.4978	CDS	LR740776.1	5018528	5019040	513	Phage tail assembly protein I	Phage tail proteins, Phage tail proteins 2	5018528	5019040	
+fig|6666666.541064.peg.4979	CDS	LR740776.1	5019101	5022496	3396	Phage tail fiber protein	Phage tail fiber proteins	5019101	5022496	
+fig|6666666.541064.peg.4980	CDS	LR740776.1	5022564	5023163	600	Attachment invasion locus protein precursor	- none -	5022564	5023163	
+fig|6666666.541064.peg.4981	CDS	LR740776.1	5024033	5023593	441	Phage tail fiber protein	Phage tail fiber proteins	5023593	5024033	
+fig|6666666.541064.peg.4982	CDS	LR740776.1	5024027	5024356	330	hypothetical protein	- none -	5024027	5024356	
+fig|6666666.541064.peg.4983	CDS	LR740776.1	5024353	5025606	1254	Phage tail fiber protein	Phage tail fiber proteins	5024353	5025606	
+fig|6666666.541064.peg.4984	CDS	LR740776.1	5025606	5025887	282	FIG00639828: hypothetical protein	- none -	5025606	5025887	
+fig|6666666.541064.peg.4985	CDS	LR740776.1	5025897	5026601	705	Phage tail fiber protein	Phage tail fiber proteins	5025897	5026601	
+fig|6666666.541064.peg.4986	CDS	LR740776.1	5026612	5026905	294	FIG00639861: hypothetical protein	- none -	5026612	5026905	
+fig|6666666.541064.peg.4987	CDS	LR740776.1	5027723	5027133	591	Mobile element protein	- none -	5027133	5027723	
+fig|6666666.541064.peg.4988	CDS	LR740776.1	5028273	5028040	234	FIG00640097: hypothetical protein	- none -	5028040	5028273	
+fig|6666666.541064.peg.4989	CDS	LR740776.1	5029130	5028882	249	DNA-damage-inducible protein I	DNA repair, bacterial	5028882	5029130	
+fig|6666666.541064.peg.4990	CDS	LR740776.1	5029409	5029245	165	FIG00638693: hypothetical protein	- none -	5029245	5029409	
+fig|6666666.541064.peg.4991	CDS	LR740776.1	5029362	5030936	1575	Peptide chain release factor 3	Translation termination factors bacterial	5029362	5030936	
+fig|6666666.541064.peg.4992	CDS	LR740776.1	5031329	5031934	606	Osmotically inducible protein OsmY	Osmoregulation	5031329	5031934	

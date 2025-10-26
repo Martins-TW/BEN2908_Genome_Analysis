@@ -1,0 +1,79 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.1118	CDS	LR740776.1	1160630	1160169	462	Nudix-like NDP and NTP phosphohydrolase YmfB	CBSS-354.1.peg.876, Nudix proteins (nucleoside triphosphate hydrolases)	1160169	1160630	
+fig|6666666.541064.peg.1119	CDS	LR740776.1	1161293	1160640	654	Ribosomal large subunit pseudouridine synthase E (EC 4.2.1.70)	CBSS-354.1.peg.876, RNA pseudouridine syntheses	1160640	1161293	
+fig|6666666.541064.peg.1120	CDS	LR740776.1	1161494	1161381	114	FIG00643355: hypothetical protein	- none -	1161381	1161494	
+fig|6666666.541064.peg.1121	CDS	LR740776.1	1161465	1162715	1251	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	5-FCL-like protein, TCA Cycle	1161465	1162715	
+fig|6666666.541064.peg.1122	CDS	LR740776.1	1163971	1162829	1143	Integrase	- none -	1162829	1163971	
+fig|6666666.541064.peg.1123	CDS	LR740776.1	1164453	1164337	117	FIG00639352: hypothetical protein	- none -	1164337	1164453	
+fig|6666666.541064.peg.1124	CDS	LR740776.1	1164886	1164560	327	Phage protein	- none -	1164560	1164886	
+fig|6666666.541064.peg.1125	CDS	LR740776.1	1165107	1164886	222	Hypothetical Zinc-finger containing protein	- none -	1164886	1165107	
+fig|6666666.541064.peg.1126	CDS	LR740776.1	1165417	1165301	117	hypothetical protein	- none -	1165301	1165417	
+fig|6666666.541064.peg.1127	CDS	LR740776.1	1165607	1165494	114	Phage protein	- none -	1165494	1165607	
+fig|6666666.541064.peg.1128	CDS	LR740776.1	1166517	1165837	681	Phage exonuclease (EC 3.1.11.3); Putative phage-encoded enzyme involved in integration-recombination	- none -	1165837	1166517	
+fig|6666666.541064.peg.1129	CDS	LR740776.1	1167299	1166514	786	Recombinational DNA repair protein RecT (prophage associated)	DNA repair, bacterial	1166514	1167299	
+fig|6666666.541064.peg.1130	CDS	LR740776.1	1167601	1167305	297	Mobile element protein	- none -	1167305	1167601	
+fig|6666666.541064.peg.1131	CDS	LR740776.1	1167820	1167677	144	Kil protein	- none -	1167677	1167820	
+fig|6666666.541064.peg.1132	CDS	LR740776.1	1168394	1168026	369	Single stranded DNA-binding protein, phage-associated	Phage replication	1168026	1168394	
+fig|6666666.541064.peg.1133	CDS	LR740776.1	1168699	1168577	123	antirestriction protein	- none -	1168577	1168699	
+fig|6666666.541064.peg.1134	CDS	LR740776.1	1168991	1169572	582	putative superinfection exclusion protein	- none -	1168991	1169572	
+fig|6666666.541064.peg.1135	CDS	LR740776.1	1169609	1169722	114	hypothetical protein	- none -	1169609	1169722	
+fig|6666666.541064.peg.1136	CDS	LR740776.1	1171050	1170298	753	FIG00641337: hypothetical protein	- none -	1170298	1171050	
+fig|6666666.541064.peg.1137	CDS	LR740776.1	1172339	1171644	696	Putative cI repressor protein for prophage CP-933H	- none -	1171644	1172339	
+fig|6666666.541064.peg.1138	CDS	LR740776.1	1172952	1173068	117	Phage repressor	- none -	1172952	1173068	
+fig|6666666.541064.peg.1139	CDS	LR740776.1	1173101	1174000	900	Origin specific replication initiation factor	Phage replication	1173101	1174000	
+fig|6666666.541064.peg.1140	CDS	LR740776.1	1173997	1174698	702	Origin specific replication binding factor #replication protein P	Phage replication	1173997	1174698	
+fig|6666666.541064.peg.1141	CDS	LR740776.1	1174695	1174985	291	Ren protein	- none -	1174695	1174985	
+fig|6666666.541064.peg.1142	CDS	LR740776.1	1175059	1175499	441	Phage NinB DNA recombination	Phage nin genes - N-independent survival	1175059	1175499	
+fig|6666666.541064.peg.1143	CDS	LR740776.1	1175496	1176023	528	Phage DNA N-6-adenine methyltransferase	- none -	1175496	1176023	
+fig|6666666.541064.peg.1144	CDS	LR740776.1	1176199	1176540	342	Phage NinX	Phage nin genes - N-independent survival	1176199	1176540	
+fig|6666666.541064.peg.1145	CDS	LR740776.1	1176747	1177109	363	Holliday junction resolvase / Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-)	- none -	1176747	1177109	
+fig|6666666.541064.peg.1146	CDS	LR740776.1	1177109	1177246	138	hypothetical protein	- none -	1177109	1177246	
+fig|6666666.541064.peg.1147	CDS	LR740776.1	1177332	1177715	384	Phage antitermination protein Q	Phage nin genes - N-independent survival	1177332	1177715	
+fig|6666666.541064.peg.1148	CDS	LR740776.1	1179046	1177904	1143	Outer membrane porin protein NmpC precursor	Uptake of selenate and selenite	1177904	1179046	
+fig|6666666.541064.peg.1149	CDS	LR740776.1	1179575	1179790	216	Phage holin	Phage lysis modules	1179575	1179790	
+fig|6666666.541064.peg.1150	CDS	LR740776.1	1179790	1180023	234	Phage lysin (EC 3.2.1.17) # Phage lysozyme or muramidase (EC 3.2.1.17)	Phage lysis modules	1179790	1180023	
+fig|6666666.541064.peg.1151	CDS	LR740776.1	1180052	1180327	276	IS1 protein	- none -	1180052	1180327	
+fig|6666666.541064.peg.1152	CDS	LR740776.1	1180372	1180749	378	Mobile element protein	- none -	1180372	1180749	
+fig|6666666.541064.peg.1153	CDS	LR740776.1	1180858	1181064	207	Phage tail fiber protein	Phage tail fiber proteins	1180858	1181064	
+fig|6666666.541064.peg.1154	CDS	LR740776.1	1181061	1181522	462	Phage outer membrane lytic protein Rz; Endopeptidase (EC 3.4.-.-)	Phage lysis modules	1181061	1181522	
+fig|6666666.541064.peg.1155	CDS	LR740776.1	1181847	1181554	294	Lipoprotein Bor	- none -	1181554	1181847	
+fig|6666666.541064.peg.1156	CDS	LR740776.1	1182861	1183043	183	FIG00640165: hypothetical protein	- none -	1182861	1183043	
+fig|6666666.541064.peg.1157	CDS	LR740776.1	1183321	1183205	117	hypothetical protein	- none -	1183205	1183321	
+fig|6666666.541064.peg.1158	CDS	LR740776.1	1183607	1184155	549	Terminase small subunit	- none -	1183607	1184155	
+fig|6666666.541064.peg.1159	CDS	LR740776.1	1184127	1184372	246	Phage terminase, large subunit	Phage packaging machinery	1184127	1184372	
+fig|6666666.541064.peg.1160	CDS	LR740776.1	1184409	1184900	492	Mobile element protein	- none -	1184409	1184900	
+fig|6666666.541064.peg.1161	CDS	LR740776.1	1185445	1185852	408	Mobile element protein	- none -	1185445	1185852	
+fig|6666666.541064.peg.1162	CDS	LR740776.1	1185875	1186108	234	Mobile element protein	- none -	1185875	1186108	
+fig|6666666.541064.peg.1163	CDS	LR740776.1	1186460	1186849	390	Mobile element protein	- none -	1186460	1186849	
+fig|6666666.541064.peg.1164	CDS	LR740776.1	1186821	1187006	186	Mobile element protein	- none -	1186821	1187006	
+fig|6666666.541064.peg.1165	CDS	LR740776.1	1187158	1188744	1587	Phage terminase, large subunit	Phage packaging machinery	1187158	1188744	
+fig|6666666.541064.peg.1166	CDS	LR740776.1	1188728	1188934	207	Phage head-to-tail joining protein	- none -	1188728	1188934	
+fig|6666666.541064.peg.1167	CDS	LR740776.1	1188931	1190313	1383	Phage portal protein	Phage packaging machinery	1188931	1190313	
+fig|6666666.541064.peg.1168	CDS	LR740776.1	1190313	1190450	138	Phage portal protein	Phage packaging machinery	1190313	1190450	
+fig|6666666.541064.peg.1169	CDS	LR740776.1	1190511	1192016	1506	Phage capsid and scaffold	Phage capsid proteins	1190511	1192016	
+fig|6666666.541064.peg.1170	CDS	LR740776.1	1192053	1192400	348	Head decoration protein	- none -	1192053	1192400	
+fig|6666666.541064.peg.1171	CDS	LR740776.1	1192458	1193486	1029	Phage major capsid protein	Phage capsid proteins	1192458	1193486	
+fig|6666666.541064.peg.1172	CDS	LR740776.1	1193538	1193912	375	Phage DNA-packaging protein	Phage packaging machinery	1193538	1193912	
+fig|6666666.541064.peg.1173	CDS	LR740776.1	1193905	1194258	354	Phage capsid and scaffold	Phage capsid proteins	1193905	1194258	
+fig|6666666.541064.peg.1174	CDS	LR740776.1	1194270	1194848	579	Phage tail completion protein	Phage tail proteins, Phage tail proteins 2	1194270	1194848	
+fig|6666666.541064.peg.1175	CDS	LR740776.1	1194845	1195240	396	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1194845	1195240	
+fig|6666666.541064.peg.1176	CDS	LR740776.1	1195248	1195988	741	Phage tail assembly	Phage tail proteins, Phage tail proteins 2	1195248	1195988	
+fig|6666666.541064.peg.1177	CDS	LR740776.1	1196004	1196426	423	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1196004	1196426	
+fig|6666666.541064.peg.1178	CDS	LR740776.1	1196408	1196842	435	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1196408	1196842	
+fig|6666666.541064.peg.1179	CDS	LR740776.1	1196835	1199396	2562	Phage tail length tape-measure protein 1	Phage tail proteins, Phage tail proteins 2	1196835	1199396	
+fig|6666666.541064.peg.1180	CDS	LR740776.1	1199393	1199722	330	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1199393	1199722	
+fig|6666666.541064.peg.1181	CDS	LR740776.1	1199722	1200024	303	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1199722	1200024	
+fig|6666666.541064.peg.1182	CDS	LR740776.1	1200028	1200420	393	Phage minor tail protein	Phage tail proteins, Phage tail proteins 2	1200028	1200420	
+fig|6666666.541064.peg.1183	CDS	LR740776.1	1200569	1201168	600	Phage tail assembly protein	Phage tail proteins, Phage tail proteins 2	1200569	1201168	
+fig|6666666.541064.peg.1184	CDS	LR740776.1	1201165	1201737	573	Phage tail assembly protein I	Phage tail proteins, Phage tail proteins 2	1201165	1201737	
+fig|6666666.541064.peg.1185	CDS	LR740776.1	1201798	1205280	3483	Phage tail fiber protein	Phage tail fiber proteins	1201798	1205280	
+fig|6666666.541064.peg.1186	CDS	LR740776.1	1205339	1207399	2061	Phage tail fiber protein	Phage tail fiber proteins	1205339	1207399	
+fig|6666666.541064.peg.1187	CDS	LR740776.1	1207396	1207674	279	FIG00639828: hypothetical protein	- none -	1207396	1207674	
+fig|6666666.541064.peg.1188	CDS	LR740776.1	1207687	1207980	294	FIG00639861: hypothetical protein	- none -	1207687	1207980	
+fig|6666666.541064.peg.1189	CDS	LR740776.1	1208929	1208072	858	Manganese ABC transporter, inner membrane permease protein SitD	- none -	1208072	1208929	
+fig|6666666.541064.peg.1190	CDS	LR740776.1	1209783	1208926	858	Manganese ABC transporter, inner membrane permease protein SitC	- none -	1208926	1209783	
+fig|6666666.541064.peg.1191	CDS	LR740776.1	1210607	1209780	828	Manganese ABC transporter, ATP-binding protein SitB	- none -	1209780	1210607	
+fig|6666666.541064.peg.1192	CDS	LR740776.1	1211398	1210607	792	Manganese ABC transporter, periplasmic-binding protein SitA	- none -	1210607	1211398	
+fig|6666666.541064.peg.1193	CDS	LR740776.1	1212220	1212978	759	FIG00639050: hypothetical protein	- none -	1212220	1212978	
+fig|6666666.541064.peg.1194	CDS	LR740776.1	1213450	1213602	153	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	5-FCL-like protein, TCA Cycle	1213450	1213602	
+fig|6666666.541064.peg.1195	CDS	LR740776.1	1214268	1213864	405	FIG00638962: hypothetical protein	- none -	1213864	1214268	

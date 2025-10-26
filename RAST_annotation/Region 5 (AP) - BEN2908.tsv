@@ -1,0 +1,11 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.371	CDS	LR740776.1	385879	386829	951	Carbamate kinase (EC 2.7.2.2)	Arginine Deiminase Pathway, Arginine and Ornithine Degradation, Polyamine Metabolism	385879	386829	
+fig|6666666.541064.peg.372	CDS	LR740776.1	386839	388221	1383	Cytosine deaminase (EC 3.5.4.1)	CBSS-326442.4.peg.1852, Creatine and Creatinine Degradation, pyrimidine conversions	386839	388221	
+fig|6666666.541064.peg.373	CDS	LR740776.1	388519	388923	405	unknown function	- none -	388519	388923	
+fig|6666666.541064.peg.374	CDS	LR740776.1	389174	390160	987	Ribose/xylose/arabinose/galactoside ABC-type transport systems, periplasmic sugar binding protein	D-ribose utilization	389174	390160	
+fig|6666666.541064.peg.375	CDS	LR740776.1	390209	391693	1485	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	D-ribose utilization	390209	391693	
+fig|6666666.541064.peg.376	CDS	LR740776.1	391686	392657	972	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	D-ribose utilization	391686	392657	
+fig|6666666.541064.peg.377	CDS	LR740776.1	392654	393610	957	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	D-ribose utilization	392654	393610	
+fig|6666666.541064.peg.378	CDS	LR740776.1	393697	394746	1050	Alcohol dehydrogenase (EC 1.1.1.1)	5-FCL-like protein, Butanol Biosynthesis, Fermentations: Mixed acid, Glycerolipid and Glycerophospholipid Metabolism in Bacteria	393697	394746	
+fig|6666666.541064.rna.9	RNA	LR740776.1	395298	395378	81	tRNA-Pseudo-???	- none -	395298	395378	
+fig|6666666.541064.peg.379	CDS	LR740776.1	396262	395630	633	Threonine efflux protein	- none -	395630	396262	

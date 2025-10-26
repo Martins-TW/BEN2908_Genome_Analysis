@@ -1,0 +1,14 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.333	CDS	LR740776.1	343120	342977	144	LSU ribosomal protein L36p	Ribosome LSU bacterial	342977	343120	
+fig|6666666.541064.peg.334	CDS	LR740776.1	343380	343117	264	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent	Ribosome LSU bacterial, Ribosome LSU bacterial	343117	343380	
+fig|6666666.541064.peg.335	CDS	LR740776.1	345462	344320	1143	FIG00553873: hypothetical protein	- none -	344320	345462	
+fig|6666666.541064.peg.336	CDS	LR740776.1	346554	345634	921	FIG00637900: hypothetical protein	- none -	345634	346554	
+fig|6666666.541064.peg.337	CDS	LR740776.1	346648	347637	990	Transcriptional regulator, LysR family	- none -	346648	347637	
+fig|6666666.541064.peg.338	CDS	LR740776.1	347837	348730	894	Transcriptional regulator, LysR family	- none -	347837	348730	
+fig|6666666.541064.peg.339	CDS	LR740776.1	349750	348761	990	Aldo-keto reductase	- none -	348761	349750	
+fig|6666666.541064.peg.340	CDS	LR740776.1	350628	349777	852	oxidoreductase, aldo/keto reductase family	- none -	349777	350628	
+fig|6666666.541064.peg.341	CDS	LR740776.1	351194	355444	4251	Putative adhesin	- none -	351194	355444	
+fig|6666666.541064.peg.342	CDS	LR740776.1	356426	355569	858	Transcriptional regulator, AraC family	- none -	355569	356426	
+fig|6666666.541064.peg.343	CDS	LR740776.1	356674	357543	870	2,5-diketo-D-gluconic acid reductase (EC 1.1.1.-)	- none -	356674	357543	
+fig|6666666.541064.peg.344	CDS	LR740776.1	358296	357703	594	Putative inner membrane protein	- none -	357703	358296	
+fig|6666666.541064.peg.345	CDS	LR740776.1	358544	358308	237	Putative periplasmic protein	- none -	358308	358544	

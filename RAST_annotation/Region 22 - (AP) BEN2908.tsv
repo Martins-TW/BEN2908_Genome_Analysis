@@ -1,0 +1,13 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3295	CDS	LR740776.1	3316244	3316501	258	FIG00638009: hypothetical protein	- none -	3316244	3316501	
+fig|6666666.541064.peg.3296	CDS	LR740776.1	3318762	3316543	2220	Probable Fe-S oxidoreductase family 2	- none -	3316543	3318762	
+fig|6666666.541064.peg.3297	CDS	LR740776.1	3318954	3318817	138	hypothetical protein	- none -	3318817	3318954	
+fig|6666666.541064.peg.3298	CDS	LR740776.1	3319014	3319763	750	Hexuronate utilization operon transcriptional repressor ExuR	D-Galacturonate and D-Glucuronate Utilization	3319014	3319763	
+fig|6666666.541064.peg.3299	CDS	LR740776.1	3320086	3321558	1473	D-mannonate oxidoreductase (EC 1.1.1.57)	D-Galacturonate and D-Glucuronate Utilization	3320086	3321558	
+fig|6666666.541064.peg.3300	CDS	LR740776.1	3321555	3322571	1017	Sorbitol dehydrogenase (EC 1.1.1.14)	- none -	3321555	3322571	
+fig|6666666.541064.peg.3301	CDS	LR740776.1	3322582	3323592	1011	Malate dehydrogenase (EC 1.1.1.37)	Glyoxylate bypass, Serine-glyoxylate cycle, TCA Cycle	3322582	3323592	
+fig|6666666.541064.peg.3302	CDS	LR740776.1	3323665	3324648	984	TRAP-type C4-dicarboxylate transport system, periplasmic component	CBSS-49338.1.peg.459, TRAP Transporter collection	3323665	3324648	
+fig|6666666.541064.peg.3303	CDS	LR740776.1	3324690	3325172	483	TRAP-type C4-dicarboxylate transport system, small permease component	TRAP Transporter collection	3324690	3325172	
+fig|6666666.541064.peg.3304	CDS	LR740776.1	3325183	3326487	1305	TRAP-type C4-dicarboxylate transport system, large permease component	CBSS-49338.1.peg.459, TRAP Transporter collection	3325183	3326487	
+fig|6666666.541064.peg.3305	CDS	LR740776.1	3327970	3326558	1413	Putative cell division protein precursor	- none -	3326558	3327970	
+fig|6666666.541064.peg.3306	CDS	LR740776.1	3328680	3328045	636	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	3328045	3328680	

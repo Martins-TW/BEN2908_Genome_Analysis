@@ -1,0 +1,13 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|562.106584.peg.4035	CDS	NZ_LR740776	3990207	3991916	1710	Uncharacterized protein YicH	- none -	3990207	3991916	
+fig|562.106584.peg.4036	CDS	NZ_LR740776	3992640	3991960	681	protein of unknown function DUF1498	- none -	3991960	3992640	
+fig|562.106584.peg.4037	CDS	NZ_LR740776	3993553	3992621	933	ROK family sugar kinase or transcriptional regulator	- none -	3992621	3993553	
+fig|562.106584.peg.4038	CDS	NZ_LR740776	3994461	3993601	861	Fructose-bisphosphate aldolase class II (EC 4.1.2.13) homolog	- none -	3993601	3994461	
+fig|562.106584.peg.4039	CDS	NZ_LR740776	3995393	3994542	852	Fructose-bisphosphate aldolase class II (EC 4.1.2.13) homolog	- none -	3994542	3995393	
+fig|562.106584.peg.4040	CDS	NZ_LR740776	3996496	3995405	1092	PTS system, IIC component	- none -	3995405	3996496	
+fig|562.106584.peg.4041	CDS	NZ_LR740776	3996835	3996521	315	PTS system, IIB component	- none -	3996521	3996835	
+fig|562.106584.peg.4042	CDS	NZ_LR740776	3997323	3996853	471	PTS system, IIA component	- none -	3996853	3997323	
+fig|562.106584.peg.4043	CDS	NZ_LR740776	3998903	3997350	1554	Transcription antiterminator, BglG family	- none -	3997350	3998903	
+fig|562.106584.peg.4044	CDS	NZ_LR740776	3999186	3999061	126	hypothetical protein	- none -	3999061	3999186	
+fig|562.106584.peg.4045	CDS	NZ_LR740776	4001516	3999198	2319	alpha-xylosidase (EC 3.2.1.177)	- none -	3999198	4001516	
+fig|562.106584.peg.4046	CDS	NZ_LR740776	4002908	4001526	1383	Proposed xyloside/Na+ symporter YicJ	- none -	4001526	4002908	

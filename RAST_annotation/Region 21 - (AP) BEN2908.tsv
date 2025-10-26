@@ -1,0 +1,22 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3219	CDS	LR740776.1	3233794	3231659	2136	Ornithine decarboxylase (EC 4.1.1.17)	Arginine and Ornithine Degradation, Polyamine Metabolism	3231659	3233794	
+fig|6666666.541064.peg.3220	CDS	LR740776.1	3234193	3234900	708	Putative inner membrane protein YqgA	- none -	3234193	3234900	
+fig|6666666.541064.rna.66	RNA	LR740776.1	3235006	3235081	76	tRNA-Phe-GAA	tRNAs	3235006	3235081	
+fig|6666666.541064.peg.3221	CDS	LR740776.1	3235318	3235461	144	Transposase	- none -	3235318	3235461	
+fig|6666666.541064.peg.3222	CDS	LR740776.1	3235751	3235629	123	hypothetical protein	- none -	3235629	3235751	
+fig|6666666.541064.peg.3223	CDS	LR740776.1	3236271	3237254	984	Capsular polysaccharide export system protein KpsF	Capsular Polysaccharide (CPS) of Campylobacter	3236271	3237254	
+fig|6666666.541064.peg.3224	CDS	LR740776.1	3237326	3238474	1149	Capsular polysaccharide export system inner membrane protein KpsE	Capsular Polysaccharide (CPS) of Campylobacter, Capsular Polysaccharides Biosynthesis and Assembly	3237326	3238474	
+fig|6666666.541064.peg.3225	CDS	LR740776.1	3238498	3240174	1677	Capsular polysaccharide export system periplasmic protein KpsD	Capsular Polysaccharide (CPS) of Campylobacter, Capsular Polysaccharides Biosynthesis and Assembly	3238498	3240174	
+fig|6666666.541064.peg.3226	CDS	LR740776.1	3240184	3240924	741	CMP-Kdo synthetase, KpsU	Capsular Polysaccharides Biosynthesis and Assembly	3240184	3240924	
+fig|6666666.541064.peg.3227	CDS	LR740776.1	3240921	3242948	2028	Capsular polysaccharide export system protein KpsC	Capsular Polysaccharides Biosynthesis and Assembly, Rhamnose containing glycans	3240921	3242948	
+fig|6666666.541064.peg.3228	CDS	LR740776.1	3242983	3244188	1206	Capsular polysaccharide export system protein KpsS	Capsular Polysaccharides Biosynthesis and Assembly	3242983	3244188	
+fig|6666666.541064.peg.3229	CDS	LR740776.1	3245567	3244338	1230	SiaD	- none -	3244338	3245567	
+fig|6666666.541064.peg.3230	CDS	LR740776.1	3246705	3245557	1149	FIG00638528: hypothetical protein	- none -	3245557	3246705	
+fig|6666666.541064.peg.3231	CDS	LR740776.1	3247873	3246698	1176	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)	CMP-N-acetylneuraminate Biosynthesis, Sialic Acid Metabolism	3246698	3247873	
+fig|6666666.541064.peg.3232	CDS	LR740776.1	3249126	3247870	1257	N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43)	CMP-N-acetylneuraminate Biosynthesis, Sialic Acid Metabolism	3247870	3249126	
+fig|6666666.541064.peg.3233	CDS	LR740776.1	3250166	3249126	1041	N-acetylneuraminate synthase (EC 2.5.1.56)	CMP-N-acetylneuraminate Biosynthesis, Sialic Acid Metabolism	3249126	3250166	
+fig|6666666.541064.peg.3234	CDS	LR740776.1	3251495	3250836	660	Capsular polysaccharide ABC transporter, ATP-binding protein KpsT	Capsular Polysaccharide (CPS) of Campylobacter, Capsular Polysaccharides Biosynthesis and Assembly	3250836	3251495	
+fig|6666666.541064.peg.3235	CDS	LR740776.1	3252268	3251492	777	Capsular polysaccharide ABC transporter, permease protein KpsM	Capsular Polysaccharide (CPS) of Campylobacter, Capsular Polysaccharides Biosynthesis and Assembly, Rhamnose containing glycans	3251492	3252268	
+fig|6666666.541064.peg.3236	CDS	LR740776.1	3253862	3253326	537	General secretion pathway protein M	General Secretion Pathway	3253326	3253862	
+fig|6666666.541064.peg.3237	CDS	LR740776.1	3255042	3253864	1179	General secretion pathway protein L	General Secretion Pathway	3253864	3255042	
+fig|6666666.541064.peg.3238	CDS	LR740776.1	3256016	3255039	978	General secretion pathway protein K	General Secretion Pathway	3255039	3256016	

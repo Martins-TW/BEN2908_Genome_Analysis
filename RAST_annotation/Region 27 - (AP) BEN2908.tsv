@@ -1,0 +1,21 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3789	CDS	LR740776.1	3813986	3814828	843	Protein involved in catabolism of external DNA	DNA processing cluster	3813986	3814828	
+fig|6666666.541064.peg.3790	CDS	LR740776.1	3814900	3816252	1353	Glutathione reductase (EC 1.8.1.7)	Glutathione: Redox cycle	3814900	3816252	
+fig|6666666.541064.peg.3791	CDS	LR740776.1	3816422	3816306	117	hypothetical protein	- none -	3816306	3816422	
+fig|6666666.541064.peg.3792	CDS	LR740776.1	3816417	3816590	174	FIG00638311: hypothetical protein	- none -	3816417	3816590	
+fig|6666666.541064.peg.3793	CDS	LR740776.1	3816923	3817348	426	Arsenate reductase (EC 1.20.4.1)	Anaerobic respiratory reductases, Transcription repair cluster	3816923	3817348	
+fig|6666666.541064.peg.3794	CDS	LR740776.1	3818532	3819098	567	Starvation lipoprotein Slp	Carbon Starvation	3818532	3819098	
+fig|6666666.541064.peg.3795	CDS	LR740776.1	3819251	3819781	531	Transcriptional regulator, ArsR family	- none -	3819251	3819781	
+fig|6666666.541064.peg.3796	CDS	LR740776.1	3820866	3819838	1029	Hemin transport protein HmuS	Heme, hemin uptake and utilization systems in GramNegatives, Heme, hemin uptake and utilization systems in GramPositives, Hemin transport system	3819838	3820866	
+fig|6666666.541064.peg.3797	CDS	LR740776.1	3822897	3820915	1983	TonB-dependent hemin , ferrichrome receptor	Heme, hemin uptake and utilization systems in GramNegatives, Hemin transport system, Ton and Tol transport systems	3820915	3822897	
+fig|6666666.541064.peg.3798	CDS	LR740776.1	3823328	3823209	120	hypothetical protein Z4912	- none -	3823209	3823328	
+fig|6666666.541064.peg.3799	CDS	LR740776.1	3823266	3823427	162	FIG00638894: hypothetical protein	- none -	3823266	3823427	
+fig|6666666.541064.peg.3800	CDS	LR740776.1	3823662	3824495	834	Periplasmic hemin-binding protein	Heme, hemin uptake and utilization systems in GramNegatives, Hemin transport system	3823662	3824495	
+fig|6666666.541064.peg.3801	CDS	LR740776.1	3824593	3825852	1260	Radical SAM family protein HutW, similar to coproporphyrinogen III oxidase, oxygen-independent, associated with heme uptake	Heme, hemin uptake and utilization systems in GramNegatives, Heme and Siroheme Biosynthesis	3824593	3825852	
+fig|6666666.541064.peg.3802	CDS	LR740776.1	3825865	3826359	495	Putative heme iron utilization protein	Heme, hemin uptake and utilization systems in GramNegatives	3825865	3826359	
+fig|6666666.541064.peg.3803	CDS	LR740776.1	3826359	3826982	624	Flavin reductase (EC 1.5.1.30)	Heme, hemin uptake and utilization systems in GramNegatives	3826359	3826982	
+fig|6666666.541064.peg.3804	CDS	LR740776.1	3827031	3828023	993	Hemin ABC transporter, permease protein	Heme, hemin uptake and utilization systems in GramNegatives, Hemin transport system, Putative hemin transporter	3827031	3828023	
+fig|6666666.541064.peg.3805	CDS	LR740776.1	3828020	3828790	771	ABC-type hemin transport system, ATPase component	Heme, hemin uptake and utilization systems in GramNegatives, Hemin transport system	3828020	3828790	
+fig|6666666.541064.peg.3806	CDS	LR740776.1	3829417	3828842	576	Mg(2+) transport ATPase protein C	Magnesium transport	3828842	3829417	
+fig|6666666.541064.peg.3807	CDS	LR740776.1	3829891	3829553	339	Chaperone HdeB	Periplasmic Acid Stress Response in Enterobacteria	3829553	3829891	
+fig|6666666.541064.peg.3808	CDS	LR740776.1	3830327	3829995	333	Chaperone HdeA	Periplasmic Acid Stress Response in Enterobacteria	3829995	3830327	

@@ -1,0 +1,12 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3741	CDS	LR740776.1	3765899	3765762	138	FIG00638710: hypothetical protein	- none -	3765762	3765899	
+fig|6666666.541064.peg.3742	CDS	LR740776.1	3766034	3766417	384	probable acetyltransferase YPO3809	- none -	3766034	3766417	
+fig|6666666.541064.peg.3743	CDS	LR740776.1	3767708	3766605	1104	Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)	ABC transporter branched-chain amino acid (TC 3.A.1.4.1)	3766605	3767708	
+fig|6666666.541064.peg.3744	CDS	LR740776.1	3768643	3769044	402	putative phosphotransferase system protein( EC:2.7.1.69 )	- none -	3768643	3769044	
+fig|6666666.541064.peg.3745	CDS	LR740776.1	3769051	3769536	486	PTS system, gluconate-specific IIB component (EC 2.7.1.69)	- none -	3769051	3769536	
+fig|6666666.541064.peg.3746	CDS	LR740776.1	3769553	3770299	747	PTS system, gluconate-specific IIC component (EC 2.7.1.69)	- none -	3769553	3770299	
+fig|6666666.541064.peg.3747	CDS	LR740776.1	3770292	3771146	855	PTS system, mannose-specific IID component (EC 2.7.1.69)	Mannose Metabolism, Sialic Acid Metabolism	3770292	3771146	
+fig|6666666.541064.peg.3748	CDS	LR740776.1	3771148	3772068	921	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	Glycine and Serine Utilization, Pyridoxin (Vitamin B6) Biosynthesis, Serine Biosynthesis	3771148	3772068	
+fig|6666666.541064.peg.3749	CDS	LR740776.1	3772068	3772952	885	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	Lysine Biosynthesis DAP Pathway, Lysine Biosynthesis DAP Pathway, GJO scratch	3772068	3772952	
+fig|6666666.541064.peg.3750	CDS	LR740776.1	3773910	3773056	855	RNA polymerase sigma factor RpoH	Heat shock dnaK gene cluster extended, Transcription initiation, bacterial sigma factors	3773056	3773910	
+fig|6666666.541064.peg.3751	CDS	LR740776.1	3775213	3774155	1059	Cell division protein FtsX	Bacterial Cell Division	3774155	3775213

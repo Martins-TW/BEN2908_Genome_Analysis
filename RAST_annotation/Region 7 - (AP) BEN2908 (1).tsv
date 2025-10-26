@@ -1,0 +1,14 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.873	CDS	LR740776.1	904093	904413	321	ATP-dependent Clp protease adaptor protein ClpS	ClpAS cluster, Proteolysis in bacteria, ATP-dependent	904093	904413	
+fig|6666666.541064.peg.874	CDS	LR740776.1	904444	906720	2277	ATP-dependent Clp protease ATP-binding subunit ClpA	ClpAS cluster, Proteolysis in bacteria, ATP-dependent, Ribosome recycling related cluster	904444	906720	
+fig|6666666.541064.peg.875	CDS	LR740776.1	907553	908536	984	CRISPR-associated protein Cas1	CRISPRs	907553	908536	
+fig|6666666.541064.peg.876	CDS	LR740776.1	908533	911766	3234	CRISPR-associated helicase Cas3, Yersinia-type	CRISPRs	908533	911766	
+fig|6666666.541064.peg.877	CDS	LR740776.1	911967	912080	114	hypothetical protein	- none -	911967	912080	
+fig|6666666.541064.peg.878	CDS	LR740776.1	912096	913403	1308	CRISPR-associated protein, Csy1 family	CRISPRs	912096	913403	
+fig|6666666.541064.peg.879	CDS	LR740776.1	913400	913615	216	CRISPR-associated protein, Csy2 family	CRISPRs	913400	913615	
+fig|6666666.541064.peg.880	CDS	LR740776.1	913682	914323	642	CRISPR-associated protein, Csy2 family	CRISPRs	913682	914323	
+fig|6666666.541064.peg.881	CDS	LR740776.1	914334	915335	1002	CRISPR-associated protein, Csy3 family	CRISPRs	914334	915335	
+fig|6666666.541064.peg.882	CDS	LR740776.1	915346	915900	555	CRISPR-associated protein, Csy4 family	CRISPRs	915346	915900	
+fig|6666666.541064.rna.26	RNA	LR740776.1	916098	916011	88	tRNA-Ser-GGA	tRNAs	916011	916098	
+fig|6666666.541064.peg.883	CDS	LR740776.1	917100	916882	219	Translation initiation factor 1	Translation initiation factors bacterial	916882	917100	
+fig|6666666.541064.peg.884	CDS	LR740776.1	918089	917385	705	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	Protein degradation	917385	918089	

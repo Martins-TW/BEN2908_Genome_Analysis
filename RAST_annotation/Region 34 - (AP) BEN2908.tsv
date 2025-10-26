@@ -1,0 +1,57 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.4590	CDS	LR740776.1	4653993	4652659	1335	Lysine/cadaverine antiporter membrane protein CadB	Lysine degradation	4652659	4653993	
+fig|6666666.541064.peg.4591	CDS	LR740776.1	4655897	4654359	1539	Transcriptional activator of cad operon	Lysine degradation	4654359	4655897	
+fig|6666666.541064.peg.4592	CDS	LR740776.1	4657215	4656646	570	Z1226 protein	- none -	4656646	4657215	
+fig|6666666.541064.peg.4593	CDS	LR740776.1	4657509	4657312	198	FIG00640476: hypothetical protein	- none -	4657312	4657509	
+fig|6666666.541064.peg.4594	CDS	LR740776.1	4658009	4657521	489	Z5092 protein	- none -	4657521	4658009	
+fig|6666666.541064.peg.4595	CDS	LR740776.1	4658380	4658006	375	YeeV toxin protein	Toxin-antitoxin replicon stabilization systems	4658006	4658380	
+fig|6666666.541064.peg.4596	CDS	LR740776.1	4658736	4658470	267	YeeU protein (antitoxin to YeeV)	Toxin-antitoxin replicon stabilization systems	4658470	4658736	
+fig|6666666.541064.peg.4597	CDS	LR740776.1	4659001	4658888	114	hypothetical protein	- none -	4658888	4659001	
+fig|6666666.541064.peg.4598	CDS	LR740776.1	4659222	4659001	222	Uncharacterized protein YkfH	- none -	4659001	4659222	
+fig|6666666.541064.peg.4599	CDS	LR740776.1	4659758	4659285	474	DNA repair protein RadC	Bacterial cell division cluster, DNA repair, bacterial	4659285	4659758	
+fig|6666666.541064.peg.4600	CDS	LR740776.1	4660001	4659768	234	Antirestriction protein klcA	- none -	4659768	4660001	
+fig|6666666.541064.peg.4601	CDS	LR740776.1	4660246	4660019	228	Antirestriction protein klcA	- none -	4660019	4660246	
+fig|6666666.541064.peg.4602	CDS	LR740776.1	4661146	4660328	819	FIG00638146: hypothetical protein	- none -	4660328	4661146	
+fig|6666666.541064.peg.4603	CDS	LR740776.1	4661476	4661282	195	FIG074102: hypothetical protein	- none -	4661282	4661476	
+fig|6666666.541064.peg.4604	CDS	LR740776.1	4662063	4661482	582	FIG00637880: hypothetical protein	- none -	4661482	4662063	
+fig|6666666.541064.peg.4605	CDS	LR740776.1	4662558	4662307	252	hypothetical protein	- none -	4662307	4662558	
+fig|6666666.541064.peg.4606	CDS	LR740776.1	4663171	4663016	156	FIG00638087: hypothetical protein	- none -	4663016	4663171	
+fig|6666666.541064.peg.4607	CDS	LR740776.1	4664074	4663190	885	NgrB	- none -	4663190	4664074	
+fig|6666666.541064.peg.4608	CDS	LR740776.1	4664175	4665398	1224	FIG00639329: hypothetical protein	- none -	4664175	4665398	
+fig|6666666.541064.peg.4609	CDS	LR740776.1	4667092	4666562	531	hypothetical protein	- none -	4666562	4667092	
+fig|6666666.541064.peg.4610	CDS	LR740776.1	4667762	4668493	732	Intergenic-region protein	- none -	4667762	4668493	
+fig|6666666.541064.peg.4611	CDS	LR740776.1	4669509	4668604	906	Mobile element protein	- none -	4668604	4669509	
+fig|6666666.541064.peg.4612	CDS	LR740776.1	4669652	4669467	186	Mobile element protein	- none -	4669467	4669652	
+fig|6666666.541064.peg.4613	CDS	LR740776.1	4670025	4672073	2049	TonB-dependent receptor; Outer membrane receptor for ferrienterochelin and colicins	Ton and Tol transport systems	4670025	4672073	
+fig|6666666.541064.peg.4614	CDS	LR740776.1	4672384	4672253	132	Mobile element protein	- none -	4672253	4672384	
+fig|6666666.541064.peg.4615	CDS	LR740776.1	4673183	4672413	771	Mobile element protein	- none -	4672413	4673183	
+fig|6666666.541064.peg.4616	CDS	LR740776.1	4673506	4673781	276	Mobile element protein	- none -	4673506	4673781	
+fig|6666666.541064.peg.4617	CDS	LR740776.1	4674047	4674259	213	Mobile element protein	- none -	4674047	4674259	
+fig|6666666.541064.peg.4618	CDS	LR740776.1	4674556	4674669	114	Mobile element protein	- none -	4674556	4674669	
+fig|6666666.541064.peg.4619	CDS	LR740776.1	4675024	4675542	519	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	Group II intron-associated genes	4675024	4675542	
+fig|6666666.541064.peg.4620	CDS	LR740776.1	4675536	4676369	834	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	Group II intron-associated genes	4675536	4676369	
+fig|6666666.541064.peg.4621	CDS	LR740776.1	4676498	4676938	441	Mobile element protein	- none -	4676498	4676938	
+fig|6666666.541064.peg.4622	CDS	LR740776.1	4677935	4676931	1005	Mobile element protein	- none -	4676931	4677935	
+fig|6666666.541064.peg.4623	CDS	LR740776.1	4678952	4678302	651	Mobile element protein	- none -	4678302	4678952	
+fig|6666666.541064.peg.4624	CDS	LR740776.1	4679078	4679203	126	hypothetical protein	- none -	4679078	4679203	
+fig|6666666.541064.peg.4625	CDS	LR740776.1	4680608	4679244	1365	Phosphoglycerate transporter protein PgtP	Phosphoglycerate transport system	4679244	4680608	
+fig|6666666.541064.peg.4626	CDS	LR740776.1	4680953	4682224	1272	Phosphoglycerate transport regulatory protein PgtC	Phosphoglycerate transport system	4680953	4682224	
+fig|6666666.541064.peg.4627	CDS	LR740776.1	4682221	4684230	2010	Phosphoglycerate transport system sensor protein PgtB (EC 2.7.3.-)	Phosphoglycerate transport system	4682221	4684230	
+fig|6666666.541064.peg.4628	CDS	LR740776.1	4684220	4685467	1248	Phosphoglycerate transport system transcriptional regulatory protein PgtA	Phosphoglycerate transport system	4684220	4685467	
+fig|6666666.541064.peg.4629	CDS	LR740776.1	4685919	4685803	117	hypothetical protein	- none -	4685803	4685919	
+fig|6666666.541064.peg.4630	CDS	LR740776.1	4685896	4686087	192	FIG00641784: hypothetical protein	- none -	4685896	4686087	
+fig|6666666.541064.peg.4631	CDS	LR740776.1	4686176	4686814	639	FIG00641990: hypothetical protein	- none -	4686176	4686814	
+fig|6666666.541064.peg.4632	CDS	LR740776.1	4687151	4688770	1620	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)	Restriction-Modification System, Type I Restriction-Modification	4687151	4688770	
+fig|6666666.541064.peg.4633	CDS	LR740776.1	4689060	4690064	1005	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	Restriction-Modification System, Type I Restriction-Modification	4689060	4690064	
+fig|6666666.541064.peg.4634	CDS	LR740776.1	4690159	4693413	3255	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)	Restriction-Modification System, Type I Restriction-Modification	4690159	4693413	
+fig|6666666.541064.peg.4635	CDS	LR740776.1	4693736	4693611	126	hypothetical protein	- none -	4693611	4693736	
+fig|6666666.541064.peg.4636	CDS	LR740776.1	4694516	4693818	699	Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG	Lactate utilization	4693818	4694516	
+fig|6666666.541064.peg.4637	CDS	LR740776.1	4695936	4694521	1416	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF	L-rhamnose utilization, Lactate utilization	4694521	4695936	
+fig|6666666.541064.peg.4638	CDS	LR740776.1	4696667	4695948	720	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE	Lactate utilization	4695948	4696667	
+fig|6666666.541064.peg.4639	CDS	LR740776.1	4698273	4696717	1557	L-lactate permease	Lactate utilization	4696717	4698273	
+fig|6666666.541064.peg.4640	CDS	LR740776.1	4698610	4698774	165	Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)	ABC transporter oligopeptide (TC 3.A.1.5.1)	4698610	4698774	
+fig|6666666.541064.peg.4641	CDS	LR740776.1	4700398	4699136	1263	Mobile element protein	- none -	4699136	4700398	
+fig|6666666.541064.rna.105	RNA	LR740776.1	4700671	4700596	76	tRNA-Phe-GAA	tRNAs	4700596	4700671	
+fig|6666666.541064.peg.4642	CDS	LR740776.1	4701353	4700778	576	Transcriptional regulator, TetR family	- none -	4700778	4701353	
+fig|6666666.541064.peg.4643	CDS	LR740776.1	4703087	4701390	1698	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)	Biogenesis of c-type cytochromes, Periplasmic disulfide interchange	4701390	4703087	
+fig|6666666.541064.peg.4644	CDS	LR740776.1	4703401	4703063	339	Periplasmic divalent cation tolerance protein CutA	Copper homeostasis: copper tolerance	4703063	4703401	

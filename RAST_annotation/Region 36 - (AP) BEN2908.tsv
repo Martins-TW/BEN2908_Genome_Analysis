@@ -1,0 +1,22 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.4871	CDS	LR740776.1	4914931	4915704	774	Uxu operon transcriptional regulator	D-Galacturonate and D-Glucuronate Utilization	4914931	4915704	
+fig|6666666.541064.peg.4872	CDS	LR740776.1	4916118	4916501	384	YjiD protein	- none -	4916118	4916501	
+fig|6666666.541064.peg.4873	CDS	LR740776.1	4918930	4916549	2382	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), subunit DhaM; DHA-specific IIA component / DHA-specific phosphocarrier protein HPr / DHA-specific EI component	Dihydroxyacetone kinases, Dihydroxyacetone kinases, Dihydroxyacetone kinases, Dihydroxyacetone kinases	4916549	4918930	
+fig|6666666.541064.peg.4874	CDS	LR740776.1	4919566	4918934	633	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL	Dihydroxyacetone kinases	4918934	4919566	
+fig|6666666.541064.peg.4875	CDS	LR740776.1	4920643	4919579	1065	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK	Dihydroxyacetone kinases	4919579	4920643	
+fig|6666666.541064.peg.4876	CDS	LR740776.1	4920968	4922050	1083	Glycerol dehydrogenase (EC 1.1.1.6)	Respiratory dehydrogenases 1	4920968	4922050	
+fig|6666666.541064.peg.4877	CDS	LR740776.1	4922117	4923385	1269	major facilitator family protein	- none -	4922117	4923385	
+fig|6666666.541064.peg.4878	CDS	LR740776.1	4923403	4924767	1365	putative dihydrolipoamide dehydrogenase	- none -	4923403	4924767	
+fig|6666666.541064.peg.4879	CDS	LR740776.1	4924942	4926609	1668	Choline-glycine betaine transporter	- none -	4924942	4926609	
+fig|6666666.541064.peg.4880	CDS	LR740776.1	4927807	4926665	1143	Glycerate kinase (EC 2.7.1.31)	Allantoin Utilization, D-galactarate, D-glucarate and D-glycerate catabolism, D-galactarate, D-glucarate and D-glycerate catabolism - gjo, Glycerate metabolism, Glycerolipid and Glycerophospholipid Metabolism in Bacteria, Glycine and Serine Utilization, Serine-glyoxylate cycle	4926665	4927807	
+fig|6666666.541064.peg.4881	CDS	LR740776.1	4928769	4927882	888	2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)	Allantoin Utilization, D-galactarate, D-glucarate and D-glycerate catabolism, D-galactarate, D-glucarate and D-glycerate catabolism - gjo, Glycerate metabolism	4927882	4928769	
+fig|6666666.541064.peg.4882	CDS	LR740776.1	4929569	4928787	783	Hydroxypyruvate isomerase (EC 5.3.1.22)	Glycerate metabolism	4928787	4929569	
+fig|6666666.541064.peg.4883	CDS	LR740776.1	4931321	4929582	1740	Glyoxylate carboligase (EC 4.1.1.47)	Allantoin Utilization, Glycerate metabolism	4929582	4931321	
+fig|6666666.541064.peg.4884	CDS	LR740776.1	4931715	4933649	1935	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase operon regulatory protein DhaR	Dihydroxyacetone kinases	4931715	4933649	
+fig|6666666.541064.peg.4885	CDS	LR740776.1	4933728	4933868	141	hypothetical protein	- none -	4933728	4933868	
+fig|6666666.541064.peg.4886	CDS	LR740776.1	4933936	4935306	1371	Invasion protein IbeA	- none -	4933936	4935306	
+fig|6666666.541064.peg.4887	CDS	LR740776.1	4935321	4936724	1404	Na+/H+ antiporter NhaC	- none -	4935321	4936724	
+fig|6666666.541064.peg.4888	CDS	LR740776.1	4937554	4936811	744	LysR family transcriptional regulator QseA	LysR-family proteins in Escherichia coli, LysR-family proteins in Salmonella enterica Typhimurium	4936811	4937554	
+fig|6666666.541064.peg.4889	CDS	LR740776.1	4938959	4937787	1173	Isoaspartyl dipeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	Protein degradation, Protein degradation	4937787	4938959	
+fig|6666666.541064.peg.4890	CDS	LR740776.1	4939433	4938972	462	Putative membrane protein	- none -	4938972	4939433	
+fig|6666666.541064.peg.4891	CDS	LR740776.1	4940113	4939430	684	FIG00637915: hypothetical protein	- none -	4939430	4940113	

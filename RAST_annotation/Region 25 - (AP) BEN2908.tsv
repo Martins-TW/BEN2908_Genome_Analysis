@@ -1,0 +1,16 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3700	CDS	LR740776.1	3721446	3721120	327	Thiosulfate sulfurtransferase GlpE (EC 2.8.1.1)	Glycerol and Glycerol-3-phosphate Uptake and Utilization, Single-Rhodanese-domain proteins	3721120	3721446	
+fig|6666666.541064.peg.3701	CDS	LR740776.1	3721636	3723141	1506	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	Glycerol and Glycerol-3-phosphate Uptake and Utilization, Glycerolipid and Glycerophospholipid Metabolism in Bacteria, Respiratory dehydrogenases 1	3721636	3723141	
+fig|6666666.541064.peg.3702	CDS	LR740776.1	3723800	3723195	606	Hypothetical membrane protein	- none -	3723195	3723800	
+fig|6666666.541064.peg.3703	CDS	LR740776.1	3724429	3723803	627	FIG00639921: hypothetical protein	- none -	3723803	3724429	
+fig|6666666.541064.peg.3704	CDS	LR740776.1	3724432	3724572	141	hypothetical protein	- none -	3724432	3724572	
+fig|6666666.541064.peg.3705	CDS	LR740776.1	3725283	3724573	711	FIG00638986: hypothetical protein	- none -	3724573	3725283	
+fig|6666666.541064.peg.3706	CDS	LR740776.1	3726577	3725456	1122	Putative fimbrial protein	- none -	3725456	3726577	
+fig|6666666.541064.peg.3707	CDS	LR740776.1	3727371	3726592	780	Hypothetical fimbrial chaperone ycbF precursor	- none -	3726592	3727371	
+fig|6666666.541064.peg.3708	CDS	LR740776.1	3727851	3727399	453	putative minor fimbrial subunit precursor	- none -	3727399	3727851	
+fig|6666666.541064.peg.3709	CDS	LR740776.1	3728422	3727859	564	Putative fimbrial-like protein	- none -	3727859	3728422	
+fig|6666666.541064.peg.3710	CDS	LR740776.1	3730983	3728422	2562	type 1 fimbriae anchoring protein FimD	Type 1 pili (mannose-sensitive fimbriae, gamma-fimbriae)	3728422	3730983	
+fig|6666666.541064.peg.3711	CDS	LR740776.1	3731805	3731053	753	chaperone FimC	Type 1 pili (mannose-sensitive fimbriae, gamma-fimbriae)	3731053	3731805	
+fig|6666666.541064.peg.3712	CDS	LR740776.1	3732610	3731906	705	Putative major fimbrial subunit precursor	- none -	3731906	3732610	
+fig|6666666.541064.peg.3713	CDS	LR740776.1	3735551	3733104	2448	Glycogen phosphorylase (EC 2.4.1.1)	Glycogen metabolism, Glycogen metabolism cluster, Maltose and Maltodextrin Utilization	3733104	3735551	
+fig|6666666.541064.peg.3714	CDS	LR740776.1	3737003	3735570	1434	Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)	Glycogen metabolism, Glycogen metabolism cluster	3735570	3737003	

@@ -1,0 +1,9 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.2707	CDS	LR740776.1	2702509	2701043	1467	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain	Purine conversions, Purine salvage cluster	2701043	2702509	
+fig|6666666.541064.peg.2708	CDS	LR740776.1	2702671	2704047	1377	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)	DNA repair, bacterial, Purine salvage cluster	2702671	2704047	
+fig|6666666.541064.peg.2709	CDS	LR740776.1	2712167	2704116	8052	RatA homolog	- none -	2704116	2712167	
+fig|6666666.541064.peg.2710	CDS	LR740776.1	2712854	2712288	567	SinI homolog	- none -	2712288	2712854	
+fig|6666666.541064.peg.2711	CDS	LR740776.1	2713264	2712860	405	SinI homolog	- none -	2712860	2713264	
+fig|6666666.541064.peg.2712	CDS	LR740776.1	2715523	2713319	2205	adherence and invasion outermembrane protein (Inv,enhances Peyer's patches colonization)	- none -	2713319	2715523	
+fig|6666666.541064.peg.2713	CDS	LR740776.1	2715947	2715732	216	FIG00613201: hypothetical protein	- none -	2715732	2715947	
+fig|6666666.541064.peg.2714	CDS	LR740776.1	2717482	2716010	1473	GTP-binding protein EngA	CBSS-290633.1.peg.1906, CBSS-498211.3.peg.1415, Universal GTPases	2716010	2717482	

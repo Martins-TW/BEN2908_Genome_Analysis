@@ -1,0 +1,35 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End
+fig|6666666.541064.peg.4465	CDS	LR740776.1	4525876	4527201	1326	DNA-damage-inducible protein F	- none -	4525876	4527201
+fig|6666666.541064.peg.4466	CDS	LR740776.1	4527238	4527381	144	UPF0337 protein yjbJ	- none -	4527238	4527381
+fig|6666666.541064.peg.4467	CDS	LR740776.1	4527431	4527775	345	Mobile element protein	- none -	4527431	4527775
+fig|6666666.541064.peg.4468	CDS	LR740776.1	4527805	4527924	120	Mobile element protein	- none -	4527805	4527924
+fig|6666666.541064.peg.4469	CDS	LR740776.1	4528470	4528844	375	Mobile element protein	- none -	4528470	4528844
+fig|6666666.541064.peg.4470	CDS	LR740776.1	4528730	4528876	147	Mobile element protein	- none -	4528730	4528876
+fig|6666666.541064.peg.4471	CDS	LR740776.1	4528899	4529651	753	Mobile element protein	- none -	4528899	4529651
+fig|6666666.541064.peg.4472	CDS	LR740776.1	4529651	4530031	381	Mobile element protein	- none -	4529651	4530031
+fig|6666666.541064.peg.4473	CDS	LR740776.1	4530092	4530217	126	UPF0337 protein yjbJ	- none -	4530092	4530217
+fig|6666666.541064.peg.4474	CDS	LR740776.1	4530774	4530259	516	Zinc uptake regulation protein ZUR	Glycyl-tRNA synthetase containing cluster, Oxidative stress, Zinc regulated enzymes	4530259	4530774
+fig|6666666.541064.peg.4475	CDS	LR740776.1	4530930	4531925	996	tRNA dihydrouridine synthase A	Possible RNA degradation cluster	4530930	4531925
+fig|6666666.541064.peg.4476	CDS	LR740776.1	4532059	4532301	243	Phage shock protein G	- none -	4532059	4532301
+fig|6666666.541064.peg.4477	CDS	LR740776.1	4533449	4532466	984	Quinone oxidoreductase (EC 1.6.5.5)	Quinone oxidoreductase family	4532466	4533449
+fig|6666666.541064.peg.4478	CDS	LR740776.1	4535603	4533555	2049	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	Serine-glyoxylate cycle, Succinate dehydrogenase, TCA Cycle	4533555	4535603
+fig|6666666.541064.peg.4479	CDS	LR740776.1	4536993	4535593	1401	Putative transmembrane transport protein	- none -	4535593	4536993
+fig|6666666.541064.peg.4480	CDS	LR740776.1	4537863	4537084	780	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)	Acetyl-CoA fermentation to Butyrate, Polyhydroxybutyrate metabolism	4537084	4537863
+fig|6666666.541064.peg.4481	CDS	LR740776.1	4539427	4537856	1572	Acetyl-CoA:acetoacetyl-CoA transferase, alpha subunit (EC 2.8.3.8) / Acetyl-CoA:acetoacetyl-CoA transferase, beta subunit (EC 2.8.3.8)	Acetyl-CoA fermentation to Butyrate, Acetyl-CoA fermentation to Butyrate	4537856	4539427
+fig|6666666.541064.peg.4482	CDS	LR740776.1	4539683	4540717	1035	Transcriptional regulator, LacI family	- none -	4539683	4540717
+fig|6666666.541064.peg.4483	CDS	LR740776.1	4540790	4542205	1416	Replicative DNA helicase (EC 3.6.1.-)	- none -	4540790	4542205
+fig|6666666.541064.peg.4484	CDS	LR740776.1	4542258	4543337	1080	Alanine racemase (EC 5.1.1.1) ## biosynthetic	Alanine biosynthesis, Pyruvate Alanine Serine Interconversions	4542258	4543337
+fig|6666666.541064.peg.4485	CDS	LR740776.1	4543360	4543917	558	Ribosyl nicotinamide transporter, PnuC-like	NAD and NADP cofactor biosynthesis global	4543360	4543917
+fig|6666666.541064.peg.4486	CDS	LR740776.1	4543914	4544912	999	Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)	NAD and NADP cofactor biosynthesis global, NAD and NADP cofactor biosynthesis global	4543914	4544912
+fig|6666666.541064.peg.4487	CDS	LR740776.1	4544994	4546187	1194	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)	Phenylalanine and Tyrosine Branches from Chorismate	4544994	4546187
+fig|6666666.541064.peg.4488	CDS	LR740776.1	4546369	4549113	2745	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)	Dehydrogenase complexes, TCA Cycle	4546369	4549113
+fig|6666666.541064.peg.4489	CDS	LR740776.1	4549146	4550300	1155	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)	Dehydrogenase complexes, TCA Cycle	4549146	4550300
+fig|6666666.541064.peg.4490	CDS	LR740776.1	4550312	4551730	1419	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	Dehydrogenase complexes, TCA Cycle	4550312	4551730
+fig|6666666.541064.peg.4491	CDS	LR740776.1	4551752	4552921	1170	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)	Serine-glyoxylate cycle, TCA Cycle	4551752	4552921
+fig|6666666.541064.peg.4492	CDS	LR740776.1	4552934	4553806	873	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	Serine-glyoxylate cycle, TCA Cycle	4552934	4553806
+fig|6666666.541064.peg.4493	CDS	LR740776.1	4554018	4555517	1500	Citrate Succinate antiporter (TC 2.A.47.3.2)	Citrate Metabolism, Transport, and Regulation	4554018	4555517
+fig|6666666.541064.peg.4494	CDS	LR740776.1	4555529	4556602	1074	Malate dehydrogenase (EC 1.1.1.37)	Glyoxylate bypass, Serine-glyoxylate cycle, TCA Cycle	4555529	4556602
+fig|6666666.541064.peg.4495	CDS	LR740776.1	4557949	4556591	1359	Two component, Sigma-54 Specific, central transcriptional regulator of acidic amino acid uptake	Glutamate and Aspartate uptake in Bacteria	4556591	4557949
+fig|6666666.541064.peg.4496	CDS	LR740776.1	4559762	4557942	1821	Putative transport sensor protein	- none -	4557942	4559762
+fig|6666666.541064.peg.4497	CDS	LR740776.1	4560039	4560752	714	NMN phosphatase (EC 3.1.3.5); Class B acid phosphatase precursor (EC 3.1.3.2)	NAD and NADP cofactor biosynthesis global	4560039	4560752
+fig|6666666.541064.peg.4498	CDS	LR740776.1	4560863	4561279	417	FIG004064: hypothetical protein	CBSS-83333.1.peg.3966	4560863	4561279

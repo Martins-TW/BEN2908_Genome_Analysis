@@ -1,0 +1,38 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3055	CDS	LR740776.1	3047414	3046614	801	HesA/MoeB/ThiF family protein related to EC-YgdL	- none -	3046614	3047414	
+fig|6666666.541064.peg.3056	CDS	LR740776.1	3048564	3047497	1068	Membrane-bound lytic murein transglycosylase A precursor (EC 3.2.1.-)	Murein Hydrolases	3047497	3048564	
+fig|6666666.541064.rna.62	RNA	LR740776.1	3048803	3048879	77	tRNA-Met-CAT	- none -	3048803	3048879	
+fig|6666666.541064.rna.63	RNA	LR740776.1	3048913	3048989	77	tRNA-Met-CAT	- none -	3048913	3048989	
+fig|6666666.541064.rna.64	RNA	LR740776.1	3049023	3049099	77	tRNA-Met-CAT	- none -	3049023	3049099	
+fig|6666666.541064.peg.3057	CDS	LR740776.1	3049735	3050235	501	Uncharacterized protein ImpB	Type VI secretion systems, USS-DB-7	3049735	3050235	
+fig|6666666.541064.peg.3058	CDS	LR740776.1	3050294	3051832	1539	Uncharacterized protein ImpC	Type VI secretion systems, USS-DB-7	3050294	3051832	
+fig|6666666.541064.peg.3059	CDS	LR740776.1	3051850	3053187	1338	Uncharacterized protein ImpJ/VasE	Type VI secretion systems, USS-DB-7	3051850	3053187	
+fig|6666666.541064.peg.3060	CDS	LR740776.1	3053184	3053849	666	probable membrane protein YPO1468	- none -	3053184	3053849	
+fig|6666666.541064.peg.3061	CDS	LR740776.1	3053862	3055514	1653	Outer membrane protein assembly factor YaeT precursor	Lipopolysaccharide assembly, Llipid A biosynthesis cluster	3053862	3055514	
+fig|6666666.541064.peg.3062	CDS	LR740776.1	3055572	3056063	492	Putative cytoplasmic protein USSDB7A	USS-DB-7	3055572	3056063	
+fig|6666666.541064.peg.3063	CDS	LR740776.1	3056255	3058900	2646	ClpB protein	Protein chaperones, Proteolysis in bacteria, ATP-dependent, Type VI secretion systems, USS-DB-7	3056255	3058900	
+fig|6666666.541064.peg.3064	CDS	LR740776.1	3058912	3061392	2481	VgrG protein	Type VI secretion systems, USS-DB-7	3058912	3061392	
+fig|6666666.541064.peg.3065	CDS	LR740776.1	3061412	3062827	1416	FIG01223466: hypothetical protein	- none -	3061412	3062827	
+fig|6666666.541064.peg.3066	CDS	LR740776.1	3063155	3063988	834	FIG00639281: hypothetical protein	- none -	3063155	3063988	
+fig|6666666.541064.peg.3067	CDS	LR740776.1	3063957	3064250	294	hypothetical protein	- none -	3063957	3064250	
+fig|6666666.541064.peg.3068	CDS	LR740776.1	3064911	3064777	135	hypothetical protein	- none -	3064777	3064911	
+fig|6666666.541064.peg.3069	CDS	LR740776.1	3064895	3066112	1218	FIG00923477: hypothetical protein	- none -	3064895	3066112	
+fig|6666666.541064.peg.3070	CDS	LR740776.1	3066122	3069475	3354	probable membrane protein YPO1482	- none -	3066122	3069475	
+fig|6666666.541064.peg.3071	CDS	LR740776.1	3069453	3071078	1626	Uncharacterized protein ImpA	Type VI secretion systems, USS-DB-7	3069453	3071078	
+fig|6666666.541064.peg.3072	CDS	LR740776.1	3071084	3072661	1578	FIG00640094: hypothetical protein	- none -	3071084	3072661	
+fig|6666666.541064.peg.3073	CDS	LR740776.1	3072997	3073290	294	hypothetical protein	- none -	3072997	3073290	
+fig|6666666.541064.peg.3074	CDS	LR740776.1	3073356	3073496	141	hypothetical protein	- none -	3073356	3073496	
+fig|6666666.541064.peg.3075	CDS	LR740776.1	3073805	3073990	186	FIG00640899: hypothetical protein	- none -	3073805	3073990	
+fig|6666666.541064.peg.3076	CDS	LR740776.1	3074360	3076120	1761	Protein ImpG/VasA	Type VI secretion systems, USS-DB-7	3074360	3076120	
+fig|6666666.541064.peg.3077	CDS	LR740776.1	3076084	3077163	1080	Uncharacterized protein ImpH/VasB	Type VI secretion systems, USS-DB-7	3076084	3077163	
+fig|6666666.541064.peg.3078	CDS	LR740776.1	3077144	3077680	537	Probable lipoprotein	- none -	3077144	3077680	
+fig|6666666.541064.peg.3079	CDS	LR740776.1	3077684	3078112	429	Uncharacterized protein similar to VCA0109	Type VI secretion systems, USS-DB-7	3077684	3078112	
+fig|6666666.541064.peg.3080	CDS	LR740776.1	3078112	3079488	1377	FIG00640640: hypothetical protein	- none -	3078112	3079488	
+fig|6666666.541064.peg.3081	CDS	LR740776.1	3080737	3079790	948	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	Glycine and Serine Utilization, Pyridoxin (Vitamin B6) Biosynthesis, Serine Biosynthesis	3079790	3080737	
+fig|6666666.541064.peg.3082	CDS	LR740776.1	3081405	3080809	597	Arabinose 5-phosphate isomerase (EC 5.3.1.13)	KDO2-Lipid A biosynthesis, Lipopolysaccharide assembly cluster	3080809	3081405	
+fig|6666666.541064.peg.3083	CDS	LR740776.1	3082583	3081408	1176	Cystathionine beta-lyase (EC 4.4.1.8) (CBL) (Beta-cystathionase) (Cysteine lyase) / Maltose regulon modulator	Maltose and Maltodextrin Utilization	3081408	3082583	
+fig|6666666.541064.peg.3084	CDS	LR740776.1	3084112	3082583	1530	PTS system, maltose and glucose-specific IIC component (EC 2.7.1.69) / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.69)	Maltose and Maltodextrin Utilization, Maltose and Maltodextrin Utilization	3082583	3084112	
+fig|6666666.541064.peg.3085	CDS	LR740776.1	3085019	3084195	825	Beta-glucoside bgl operon antiterminator, BglG family	Beta-Glucoside Metabolism	3084195	3085019	
+fig|6666666.541064.peg.3086	CDS	LR740776.1	3085115	3085267	153	hypothetical protein	- none -	3085115	3085267	
+fig|6666666.541064.peg.3087	CDS	LR740776.1	3086530	3085277	1254	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)	Murein Hydrolases, Recycling of Peptidoglycan Amino Acids, Zinc regulated enzymes	3085277	3086530	
+fig|6666666.541064.peg.3088	CDS	LR740776.1	3086762	3088093	1332	N-acetylglutamate synthase (EC 2.3.1.1)	Arginine Biosynthesis -- gjo, Arginine Biosynthesis extended	3086762	3088093	

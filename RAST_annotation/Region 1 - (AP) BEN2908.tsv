@@ -1,0 +1,30 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.rna.7	RNA	LR740776.1	261555	261631	77	tRNA-Asp-GTC	- none -	261555	261631	
+fig|6666666.541064.peg.252	CDS	LR740776.1	261763	261906	144	hypothetical protein	- none -	261763	261906	
+fig|6666666.541064.peg.253	CDS	LR740776.1	262189	262746	558	putative aminopeptidase	- none -	262189	262746	
+fig|6666666.541064.peg.254	CDS	LR740776.1	263565	263086	480	Secreted protein Hcp	Type VI secretion systems	263086	263565	
+fig|6666666.541064.peg.255	CDS	LR740776.1	264941	263583	1359	FIG00638493: hypothetical protein	- none -	263583	264941	
+fig|6666666.541064.peg.256	CDS	LR740776.1	268419	264952	3468	IcmF-related protein	Type VI secretion systems	264952	268419	
+fig|6666666.541064.peg.257	CDS	LR740776.1	269941	268499	1443	Uncharacterized protein ImpA	Type VI secretion systems, USS-DB-7	268499	269941	
+fig|6666666.541064.peg.258	CDS	LR740776.1	270706	270017	690	Type VI secretion protein VasI	Type VI secretion systems	270017	270706	
+fig|6666666.541064.peg.259	CDS	LR740776.1	273462	270703	2760	ClpB protein	Protein chaperones, Proteolysis in bacteria, ATP-dependent, Type VI secretion systems, USS-DB-7	270703	273462	
+fig|6666666.541064.peg.260	CDS	LR740776.1	274236	273472	765	Outer membrane protein ImpK/VasF, OmpA/MotB domain	Type VI secretion systems, USS-DB-7	273472	274236	
+fig|6666666.541064.peg.261	CDS	LR740776.1	275587	274241	1347	Uncharacterized protein ImpJ/VasE	Type VI secretion systems, USS-DB-7	274241	275587	
+fig|6666666.541064.peg.262	CDS	LR740776.1	276114	275590	525	Type VI secretion lipoprotein/VasD	Type VI secretion systems	275590	276114	
+fig|6666666.541064.peg.263	CDS	LR740776.1	277391	276111	1281	Uncharacterized protein ImpI/VasC	Type VI secretion systems, USS-DB-7	276111	277391	
+fig|6666666.541064.peg.264	CDS	LR740776.1	278457	277408	1050	Uncharacterized protein ImpH/VasB	Type VI secretion systems, USS-DB-7	277408	278457	
+fig|6666666.541064.peg.265	CDS	LR740776.1	278978	278421	558	Protein ImpG/VasA	Type VI secretion systems, USS-DB-7	278421	278978	
+fig|6666666.541064.peg.266	CDS	LR740776.1	280270	278975	1296	Protein ImpG/VasA	Type VI secretion systems, USS-DB-7	278975	280270	
+fig|6666666.541064.peg.267	CDS	LR740776.1	280701	280276	426	Uncharacterized protein similar to VCA0109	Type VI secretion systems, USS-DB-7	280276	280701	
+fig|6666666.541064.peg.268	CDS	LR740776.1	282190	280706	1485	Uncharacterized protein ImpC	Type VI secretion systems, USS-DB-7	280706	282190	
+fig|6666666.541064.peg.269	CDS	LR740776.1	282716	282213	504	Uncharacterized protein ImpB	Type VI secretion systems, USS-DB-7	282213	282716	
+fig|6666666.541064.peg.270	CDS	LR740776.1	283422	283940	519	Uncharacterized protein ImpD	Type VI secretion systems, USS-DB-7	283422	283940	
+fig|6666666.541064.peg.271	CDS	LR740776.1	284026	284145	120	hypothetical protein	- none -	284026	284145	
+fig|6666666.541064.peg.272	CDS	LR740776.1	284161	286143	1983	VgrG-3 protein	Type VI secretion systems	284161	286143	
+fig|6666666.541064.peg.273	CDS	LR740776.1	286250	287296	1047	FIG00639346: hypothetical protein	- none -	286250	287296	
+fig|6666666.541064.peg.274	CDS	LR740776.1	287289	288728	1440	FIG00641604: hypothetical protein	- none -	287289	288728	
+fig|6666666.541064.peg.275	CDS	LR740776.1	289251	289430	180	Mobile element protein	- none -	289251	289430	
+fig|6666666.541064.peg.276	CDS	LR740776.1	289530	290015	486	Mobile element protein	- none -	289530	290015	
+fig|6666666.541064.peg.277	CDS	LR740776.1	290841	291329	489	FIG00641622: hypothetical protein	- none -	290841	291329	
+fig|6666666.541064.peg.278	CDS	LR740776.1	292370	291600	771	Aliphatic amidase AmiE (EC 3.5.1.4)	- none -	291600	292370	
+fig|6666666.541064.peg.279	CDS	LR740776.1	292524	292997	474	Inhibitor of vertebrate lysozyme precursor	Lysozyme inhibitors	292524	292997	

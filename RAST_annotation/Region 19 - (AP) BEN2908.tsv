@@ -1,0 +1,81 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.2816	CDS	LR740776.1	2831410	2830934	477	Putative oligoketide cyclase/dehydratase or lipid transport protein YfjG	Possible RNA degradation cluster	2830934	2831410	
+fig|6666666.541064.peg.2817	CDS	LR740776.1	2831542	2832024	483	tmRNA-binding protein SmpB	Heat shock dnaK gene cluster extended, Translation termination factors bacterial	2831542	2832024	
+fig|6666666.541064.peg.2818	CDS	LR740776.1	2832786	2833997	1212	Phage integrase, Phage P4-associated	- none -	2832786	2833997	
+fig|6666666.541064.peg.2819	CDS	LR740776.1	2835132	2834248	885	hypothetical protein	- none -	2834248	2835132	
+fig|6666666.541064.peg.2820	CDS	LR740776.1	2836141	2835569	573	FIG054316: Phage polarity suppression protein	- none -	2835569	2836141	
+fig|6666666.541064.peg.2821	CDS	LR740776.1	2837132	2836398	735	FIG070121: Phage capsid and scaffold protein	- none -	2836398	2837132	
+fig|6666666.541064.peg.2822	CDS	LR740776.1	2837372	2837515	144	hypothetical protein	- none -	2837372	2837515	
+fig|6666666.541064.peg.2823	CDS	LR740776.1	2837685	2837951	267	probable prophage regulatory protein	- none -	2837685	2837951	
+fig|6666666.541064.peg.2824	CDS	LR740776.1	2837948	2838547	600	FIG118045: Phage immunity repressor protein	- none -	2837948	2838547	
+fig|6666666.541064.peg.2825	CDS	LR740776.1	2838540	2838827	288	Phage protein	- none -	2838540	2838827	
+fig|6666666.541064.peg.2826	CDS	LR740776.1	2838820	2839275	456	FIG032397: Phage protein	- none -	2838820	2839275	
+fig|6666666.541064.peg.2827	CDS	LR740776.1	2839411	2839731	321	FIG018226: DNA replication protein, phage-associated	- none -	2839411	2839731	
+fig|6666666.541064.peg.2828	CDS	LR740776.1	2839746	2842079	2334	Zinc binding domain / DNA primase (EC 2.7.7.-), Phage P4-associated / Replicative helicase RepA, Phage P4-associated	- none -	2839746	2842079	
+fig|6666666.541064.peg.2829	CDS	LR740776.1	2844064	2843231	834	hypothetical protein	- none -	2843231	2844064	
+fig|6666666.541064.peg.2830	CDS	LR740776.1	2845464	2846252	789	FIG00638862: hypothetical protein	- none -	2845464	2846252	
+fig|6666666.541064.peg.2831	CDS	LR740776.1	2847617	2846844	774	FIG00638142: hypothetical protein	- none -	2846844	2847617	
+fig|6666666.541064.peg.2832	CDS	LR740776.1	2848107	2848244	138	DNA-damage-inducible protein I	DNA repair, bacterial	2848107	2848244	
+fig|6666666.541064.peg.2833	CDS	LR740776.1	2848669	2850558	1890	FIG00638869: hypothetical protein	- none -	2848669	2850558	
+fig|6666666.541064.peg.2834	CDS	LR740776.1	2850812	2851303	492	hypothetical protein	- none -	2850812	2851303	
+fig|6666666.541064.peg.2835	CDS	LR740776.1	2851306	2851749	444	Tail fiber assembly protein	- none -	2851306	2851749	
+fig|6666666.541064.peg.2836	CDS	LR740776.1	2852323	2851721	603	Tail fiber assembly protein	- none -	2851721	2852323	
+fig|6666666.541064.peg.2837	CDS	LR740776.1	2853066	2852323	744	Prophage tail fiber protein	Prophage cluster in the proteobacteria	2852323	2853066	
+fig|6666666.541064.peg.2838	CDS	LR740776.1	2853654	2853070	585	FIG121501: Prophage tail protein	Prophage cluster in the proteobacteria	2853070	2853654	
+fig|6666666.541064.peg.2839	CDS	LR740776.1	2854703	2853645	1059	Phage FluMu protein gp47	Prophage cluster in the proteobacteria	2853645	2854703	
+fig|6666666.541064.peg.2840	CDS	LR740776.1	2855115	2854690	426	Bacteriophage protein GP46	Prophage cluster in the proteobacteria	2854690	2855115	
+fig|6666666.541064.peg.2841	CDS	LR740776.1	2855663	2855115	549	Prophage baseplate assembly protein V	Prophage cluster in the proteobacteria	2855115	2855663	
+fig|6666666.541064.peg.2842	CDS	LR740776.1	2856742	2855663	1080	FIG003269: Prophage tail protein	Prophage cluster in the proteobacteria	2855663	2856742	
+fig|6666666.541064.peg.2843	CDS	LR740776.1	2858067	2856739	1329	Phage tail/DNA circulation protein	Phage tail proteins, Prophage cluster in the proteobacteria	2856739	2858067	
+fig|6666666.541064.peg.2844	CDS	LR740776.1	2859963	2858128	1836	Phage tail length tape-measure protein	Phage tail proteins, Phage tail proteins 2, Prophage cluster in the proteobacteria	2858128	2859963	
+fig|6666666.541064.peg.2845	CDS	LR740776.1	2860138	2859956	183	FIG00640428: hypothetical protein	- none -	2859956	2860138	
+fig|6666666.541064.peg.2846	CDS	LR740776.1	2860374	2860105	270	FIG00638370: hypothetical protein	- none -	2860105	2860374	
+fig|6666666.541064.peg.2847	CDS	LR740776.1	2860730	2860374	357	Phage tail tube protein	Phage tail proteins, Prophage cluster in the proteobacteria	2860374	2860730	
+fig|6666666.541064.peg.2848	CDS	LR740776.1	2862226	2860730	1497	Bacteriophage tail sheath protein	Prophage cluster in the proteobacteria	2860730	2862226	
+fig|6666666.541064.peg.2849	CDS	LR740776.1	2862380	2862210	171	Mu-like prophage FluMu protein GP38	Prophage cluster in the proteobacteria	2862210	2862380	
+fig|6666666.541064.peg.2850	CDS	LR740776.1	2862949	2862389	561	FIG111678: IS, phage, Tn; Transposon-related functions	Prophage cluster in the proteobacteria	2862389	2862949	
+fig|6666666.541064.peg.2851	CDS	LR740776.1	2863452	2862946	507	FIG00639550: hypothetical protein	- none -	2862946	2863452	
+fig|6666666.541064.peg.2852	CDS	LR740776.1	2863837	2863427	411	Sb9	- none -	2863427	2863837	
+fig|6666666.541064.peg.2853	CDS	LR740776.1	2864157	2863834	324	FIG01046441: hypothetical protein	- none -	2863834	2864157	
+fig|6666666.541064.peg.2854	CDS	LR740776.1	2864360	2864160	201	FIG069533: Putative bacteriophage protein	Prophage cluster in the proteobacteria	2864160	2864360	
+fig|6666666.541064.peg.2855	CDS	LR740776.1	2865615	2864410	1206	Phage major capsid protein	Phage capsid proteins	2864410	2865615	
+fig|6666666.541064.peg.2856	CDS	LR740776.1	2866280	2865630	651	Gene Transfer Agent prohead protease ## ORFG04	- none -	2865630	2866280	
+fig|6666666.541064.peg.2857	CDS	LR740776.1	2867028	2866258	771	Phage portal protein	Phage packaging machinery	2866258	2867028	
+fig|6666666.541064.peg.2858	CDS	LR740776.1	2867499	2867071	429	Phage portal protein	Phage packaging machinery	2867071	2867499	
+fig|6666666.541064.peg.2859	CDS	LR740776.1	2867681	2867499	183	FIG00640168: hypothetical protein	- none -	2867499	2867681	
+fig|6666666.541064.peg.2860	CDS	LR740776.1	2869354	2867693	1662	Phage terminase, large subunit	Phage packaging machinery	2867693	2869354	
+fig|6666666.541064.peg.2861	CDS	LR740776.1	2869917	2869423	495	Phage terminase, small subunit	Phage packaging machinery	2869423	2869917	
+fig|6666666.541064.peg.2862	CDS	LR740776.1	2870393	2870043	351	Holin	- none -	2870043	2870393	
+fig|6666666.541064.peg.2863	CDS	LR740776.1	2871267	2871043	225	hypothetical protein	- none -	2871043	2871267	
+fig|6666666.541064.peg.2864	CDS	LR740776.1	2871603	2871418	186	Phage outer membrane lipoprotein Rz1	Phage lysis modules	2871418	2871603	
+fig|6666666.541064.peg.2865	CDS	LR740776.1	2872275	2871799	477	Phage lysin, 1,4-beta-N-acetylmuramidase (EC 3.2.1.17) or lysozyme #Protein S in phage lambda	Phage lysis modules	2871799	2872275	
+fig|6666666.541064.peg.2866	CDS	LR740776.1	2872567	2872262	306	Putative holin protein	- none -	2872262	2872567	
+fig|6666666.541064.peg.2867	CDS	LR740776.1	2873054	2872719	336	hypothetical protein	- none -	2872719	2873054	
+fig|6666666.541064.peg.2868	CDS	LR740776.1	2873992	2873240	753	Phage antitermination protein Q	Phage nin genes - N-independent survival	2873240	2873992	
+fig|6666666.541064.peg.2869	CDS	LR740776.1	2874677	2874006	672	Putative cytoplasmic protein	- none -	2874006	2874677	
+fig|6666666.541064.peg.2870	CDS	LR740776.1	2875797	2875000	798	Phage-related protein	- none -	2875000	2875797	
+fig|6666666.541064.peg.2871	CDS	LR740776.1	2876206	2875817	390	Holliday junction resolvase / Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-)	- none -	2875817	2876206	
+fig|6666666.541064.peg.2872	CDS	LR740776.1	2876529	2876203	327	SOS-response repressor and protease LexA (EC 3.4.21.88)	DNA repair, bacterial, DNA repair, bacterial UmuCD system	2876203	2876529	
+fig|6666666.541064.peg.2873	CDS	LR740776.1	2876693	2876526	168	DNA adenine methylase	- none -	2876526	2876693	
+fig|6666666.541064.peg.2874	CDS	LR740776.1	2877179	2876781	399	DNA adenine methylase	- none -	2876781	2877179	
+fig|6666666.541064.peg.2875	CDS	LR740776.1	2877673	2877179	495	FIG00641663: hypothetical protein	- none -	2877179	2877673	
+fig|6666666.541064.peg.2876	CDS	LR740776.1	2878611	2877670	942	Primosomal protein I	- none -	2877670	2878611	
+fig|6666666.541064.peg.2877	CDS	LR740776.1	2878780	2878601	180	FIG00643873: hypothetical protein	- none -	2878601	2878780	
+fig|6666666.541064.peg.2878	CDS	LR740776.1	2879507	2878956	552	FIG00639586: hypothetical protein	- none -	2878956	2879507	
+fig|6666666.541064.peg.2879	CDS	LR740776.1	2879751	2879551	201	hypothetical protein	- none -	2879551	2879751	
+fig|6666666.541064.peg.2880	CDS	LR740776.1	2880256	2880516	261	Phage repressor	- none -	2880256	2880516	
+fig|6666666.541064.peg.2881	CDS	LR740776.1	2881700	2882062	363	FIG00638873: hypothetical protein	- none -	2881700	2882062	
+fig|6666666.541064.peg.2882	CDS	LR740776.1	2882128	2882952	825	FIG00642676: hypothetical protein	- none -	2882128	2882952	
+fig|6666666.541064.peg.2883	CDS	LR740776.1	2883080	2883604	525	Hypothetical protein yfdR	- none -	2883080	2883604	
+fig|6666666.541064.peg.2884	CDS	LR740776.1	2883713	2884579	867	FIG00640422: hypothetical protein	- none -	2883713	2884579	
+fig|6666666.541064.peg.2885	CDS	LR740776.1	2884621	2884827	207	hypothetical protein	- none -	2884621	2884827	
+fig|6666666.541064.peg.2886	CDS	LR740776.1	2884788	2885960	1173	Phage integrase	- none -	2884788	2885960	
+fig|6666666.541064.peg.2887	CDS	LR740776.1	2886804	2886580	225	FIG00640322: hypothetical protein	- none -	2886580	2886804	
+fig|6666666.541064.peg.2888	CDS	LR740776.1	2887759	2886911	849	FIG00640062: hypothetical protein	- none -	2886911	2887759	
+fig|6666666.541064.peg.2889	CDS	LR740776.1	2888987	2887851	1137	Mobile element protein	- none -	2887851	2888987	
+fig|6666666.541064.peg.2890	CDS	LR740776.1	2889156	2889010	147	Mobile element protein	- none -	2889010	2889156	
+fig|6666666.541064.peg.2891	CDS	LR740776.1	2889416	2889042	375	Mobile element protein	- none -	2889042	2889416	
+fig|6666666.541064.peg.2892	CDS	LR740776.1	2890454	2889963	492	Mobile element protein	- none -	2889963	2890454	
+fig|6666666.541064.peg.2893	CDS	LR740776.1	2891047	2890922	126	hypothetical protein	- none -	2890922	2891047	
+fig|6666666.541064.peg.2894	CDS	LR740776.1	2891378	2892355	978	Carbon starvation induced protein CsiD	- none -	2891378	2892355	
+fig|6666666.541064.peg.2895	CDS	LR740776.1	2892375	2893643	1269	L-2-hydroxyglutarate oxidase (EC 1.1.3.15)	- none -	2892375	2893643	

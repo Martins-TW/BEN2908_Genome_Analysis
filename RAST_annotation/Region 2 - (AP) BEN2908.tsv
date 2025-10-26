@@ -1,0 +1,47 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.301	CDS	LR740776.1	313379	314632	1254	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	Proline Synthesis	313379	314632	
+fig|6666666.541064.rna.8	RNA	LR740776.1	314747	314822	76	tRNA-Thr-CGT	- none -	314747	314822	
+fig|6666666.541064.peg.302	CDS	LR740776.1	315712	315834	123	hypothetical protein	- none -	315712	315834	
+fig|6666666.541064.peg.303	CDS	LR740776.1	316263	316042	222	hypothetical protein	- none -	316042	316263	
+fig|6666666.541064.peg.304	CDS	LR740776.1	317432	317608	177	hypothetical protein	- none -	317432	317608	
+fig|6666666.541064.peg.305	CDS	LR740776.1	318575	318763	189	hypothetical protein	- none -	318575	318763	
+fig|6666666.541064.peg.306	CDS	LR740776.1	318783	318950	168	FIG00643638: hypothetical protein	- none -	318783	318950	
+fig|6666666.541064.peg.307	CDS	LR740776.1	320075	320482	408	hypothetical protein	- none -	320075	320482	
+fig|6666666.541064.peg.308	CDS	LR740776.1	320484	320819	336	hypothetical protein	- none -	320484	320819	
+fig|6666666.541064.peg.309	CDS	LR740776.1	321163	321375	213	FIG00642654: hypothetical protein	- none -	321163	321375	
+fig|6666666.541064.peg.310	CDS	LR740776.1	321372	321734	363	FIG00641170: hypothetical protein	- none -	321372	321734	
+fig|6666666.541064.peg.311	CDS	LR740776.1	321753	322781	1029	FIG00639751: hypothetical protein	- none -	321753	322781	
+fig|6666666.541064.peg.312	CDS	LR740776.1	323087	324919	1833	FIG00640501: hypothetical protein	- none -	323087	324919	
+fig|6666666.541064.peg.313	CDS	LR740776.1	324951	325664	714	FIG00642343: hypothetical protein	- none -	324951	325664	
+fig|6666666.541064.peg.314	CDS	LR740776.1	327023	325746	1278	Integrase	- none -	325746	327023	
+fig|6666666.541064.peg.315	CDS	LR740776.1	327502	327678	177	Mobile element protein	- none -	327502	327678	
+fig|6666666.541064.peg.316	CDS	LR740776.1	328474	328289	186	Mobile element protein	- none -	328289	328474	
+fig|6666666.541064.peg.317	CDS	LR740776.1	329420	328446	975	Mobile element protein	- none -	328446	329420	
+fig|6666666.541064.peg.318	CDS	LR740776.1	329850	329443	408	Mobile element protein	- none -	329443	329850	
+fig|6666666.541064.peg.319	CDS	LR740776.1	330517	330338	180	Mobile element protein	- none -	330338	330517	
+fig|6666666.541064.peg.320	CDS	LR740776.1	330885	330595	291	Mobile element protein	- none -	330595	330885	
+fig|6666666.541064.peg.321	CDS	LR740776.1	331493	330885	609	Per-activated serine protease autotransporter enterotoxin EspC	Lysozyme inhibitors	330885	331493	
+fig|6666666.541064.peg.322	CDS	LR740776.1	332086	332301	216	Mobile element protein	- none -	332086	332301	
+fig|6666666.541064.peg.323	CDS	LR740776.1	332603	332779	177	Mobile element protein	- none -	332603	332779	
+fig|6666666.541064.peg.324	CDS	LR740776.1	333266	333388	123	FIG00639659: hypothetical protein	- none -	333266	333388	
+fig|6666666.541064.peg.325	CDS	LR740776.1	333603	334217	615	DUF1440 domain-containing membrane protein	- none -	333603	334217	
+fig|6666666.541064.peg.326	CDS	LR740776.1	334764	334651	114	Ferredoxin	Inorganic Sulfur Assimilation, Soluble cytochromes and functionally related electron carriers	334651	334764	
+fig|6666666.541064.peg.327	CDS	LR740776.1	335812	335102	711	CFA/I fimbrial chaperone	Colonization factor antigen I fimbriae	335102	335812	
+fig|6666666.541064.peg.328	CDS	LR740776.1	337424	335781	1644	CFA/I fimbrial minor adhesin	Colonization factor antigen I fimbriae	335781	337424	
+fig|6666666.541064.peg.329	CDS	LR740776.1	339939	337414	2526	CFA/I fimbrial subunit C usher protein	Colonization factor antigen I fimbriae	337414	339939	
+fig|6666666.541064.peg.330	CDS	LR740776.1	340633	339965	669	CFA/I fimbrial auxiliary subunit	Colonization factor antigen I fimbriae	339965	340633	
+fig|6666666.541064.peg.331	CDS	LR740776.1	341277	340690	588	CFA/I fimbrial major subunit	Colonization factor antigen I fimbriae	340690	341277	
+fig|6666666.541064.peg.332	CDS	LR740776.1	341893	341351	543	FIGfam014588: Predicted regulator of CFA/I fimbriae	Colonization factor antigen I fimbriae	341351	341893	
+fig|6666666.541064.peg.333	CDS	LR740776.1	343120	342977	144	LSU ribosomal protein L36p	Ribosome LSU bacterial	342977	343120	
+fig|6666666.541064.peg.334	CDS	LR740776.1	343380	343117	264	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent	Ribosome LSU bacterial, Ribosome LSU bacterial	343117	343380	
+fig|6666666.541064.peg.335	CDS	LR740776.1	345462	344320	1143	FIG00553873: hypothetical protein	- none -	344320	345462	
+fig|6666666.541064.peg.336	CDS	LR740776.1	346554	345634	921	FIG00637900: hypothetical protein	- none -	345634	346554	
+fig|6666666.541064.peg.337	CDS	LR740776.1	346648	347637	990	Transcriptional regulator, LysR family	- none -	346648	347637	
+fig|6666666.541064.peg.338	CDS	LR740776.1	347837	348730	894	Transcriptional regulator, LysR family	- none -	347837	348730	
+fig|6666666.541064.peg.339	CDS	LR740776.1	349750	348761	990	Aldo-keto reductase	- none -	348761	349750	
+fig|6666666.541064.peg.340	CDS	LR740776.1	350628	349777	852	oxidoreductase, aldo/keto reductase family	- none -	349777	350628	
+fig|6666666.541064.peg.341	CDS	LR740776.1	351194	355444	4251	Putative adhesin	- none -	351194	355444	
+fig|6666666.541064.peg.342	CDS	LR740776.1	356426	355569	858	Transcriptional regulator, AraC family	- none -	355569	356426	
+fig|6666666.541064.peg.343	CDS	LR740776.1	356674	357543	870	2,5-diketo-D-gluconic acid reductase (EC 1.1.1.-)	- none -	356674	357543	
+fig|6666666.541064.peg.344	CDS	LR740776.1	358296	357703	594	Putative inner membrane protein	- none -	357703	358296	
+fig|6666666.541064.peg.345	CDS	LR740776.1	358544	358308	237	Putative periplasmic protein	- none -	358308	358544	

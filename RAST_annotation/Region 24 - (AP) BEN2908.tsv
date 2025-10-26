@@ -1,0 +1,15 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.3528	CDS	LR740776.1	3561856	3562326	471	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	CBSS-221988.1.peg.1679, Fatty Acid Biosynthesis FASII	3561856	3562326	
+fig|6666666.541064.peg.3529	CDS	LR740776.1	3562337	3563686	1350	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)	CBSS-221988.1.peg.1679, Fatty Acid Biosynthesis FASII	3562337	3563686	
+fig|6666666.541064.peg.3530	CDS	LR740776.1	3564824	3563844	981	TIORF127 protein	- none -	3563844	3564824	
+fig|6666666.541064.peg.3531	CDS	LR740776.1	3565783	3564821	963	Fructokinase (EC 2.7.1.4)	Fructose utilization, Mannitol Utilization	3564821	3565783	
+fig|6666666.541064.peg.3532	CDS	LR740776.1	3566794	3565805	990	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	D-ribose utilization	3565805	3566794	
+fig|6666666.541064.peg.3533	CDS	LR740776.1	3568294	3566795	1500	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	D-ribose utilization	3566795	3568294	
+fig|6666666.541064.peg.3534	CDS	LR740776.1	3569245	3568355	891	Ribose/xylose/arabinose/galactoside ABC-type transport systems, substrate-binding component	- none -	3568355	3569245	
+fig|6666666.541064.peg.3535	CDS	LR740776.1	3570135	3569281	855	Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)	N-Acetyl-Galactosamine and Galactosamine Utilization	3569281	3570135	
+fig|6666666.541064.peg.3536	CDS	LR740776.1	3570110	3570238	129	hypothetical protein	- none -	3570110	3570238	
+fig|6666666.541064.peg.3537	CDS	LR740776.1	3570492	3571307	816	Transcriptional repressor of aga operon	N-Acetyl-Galactosamine and Galactosamine Utilization	3570492	3571307	
+fig|6666666.541064.peg.3538	CDS	LR740776.1	3571719	3571273	447	FIG00640910: hypothetical protein	- none -	3571273	3571719	
+fig|6666666.541064.peg.3539	CDS	LR740776.1	3571762	3572274	513	Putative sugar kinase, PfkB family protein (EC 2.7.1.-)	- none -	3571762	3572274	
+fig|6666666.541064.peg.3540	CDS	LR740776.1	3572367	3572609	243	FIG003021: Membrane protein	CBSS-221988.1.peg.1679	3572367	3572609	
+fig|6666666.541064.peg.3541	CDS	LR740776.1	3572599	3574050	1452	Pantothenate:Na+ symporter (TC 2.A.21.1.1)	CBSS-221988.1.peg.1679, Coenzyme A Biosynthesis	3572599	3574050	

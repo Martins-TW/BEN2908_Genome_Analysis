@@ -1,0 +1,48 @@
+Feature ID	Type	Contig	Start	Stop	Length (bp)	Function	Subsystems	Begin	End	Region
+fig|6666666.541064.peg.4282	CDS	LR740776.1	4329894	4328521	1374	Copper sensory histidine kinase CpxA	Orphan regulatory proteins	4328521	4329894	
+fig|6666666.541064.peg.4283	CDS	LR740776.1	4330523	4329891	633	Copper-sensing two-component system response regulator CpxR	Orphan regulatory proteins	4329891	4330523	
+fig|6666666.541064.peg.4284	CDS	LR740776.1	4330736	4331239	504	P pilus assembly/Cpx signaling pathway, periplasmic inhibitor/zinc-resistance associated protein	- none -	4330736	4331239	
+fig|6666666.541064.peg.4285	CDS	LR740776.1	4332615	4331425	1191	Integrase	- none -	4331425	4332615	
+fig|6666666.541064.peg.4286	CDS	LR740776.1	4332959	4333231	273	Cox	- none -	4332959	4333231	
+fig|6666666.541064.peg.4287	CDS	LR740776.1	4333286	4333474	189	hypothetical protein	- none -	4333286	4333474	
+fig|6666666.541064.peg.4288	CDS	LR740776.1	4333654	4333478	177	hypothetical protein	- none -	4333478	4333654	
+fig|6666666.541064.peg.4289	CDS	LR740776.1	4333939	4334439	501	Replication gene B protein	- none -	4333939	4334439	
+fig|6666666.541064.peg.4290	CDS	LR740776.1	4334503	4334727	225	FIG00638705: hypothetical protein	- none -	4334503	4334727	
+fig|6666666.541064.peg.4291	CDS	LR740776.1	4334727	4335029	303	FIG00640077: hypothetical protein	- none -	4334727	4335029	
+fig|6666666.541064.peg.4292	CDS	LR740776.1	4335029	4335253	225	Hypothetical Zinc-finger containing protein	- none -	4335029	4335253	
+fig|6666666.541064.peg.4293	CDS	LR740776.1	4335250	4335525	276	FIG00639324: hypothetical protein	- none -	4335250	4335525	
+fig|6666666.541064.peg.4294	CDS	LR740776.1	4335515	4337809	2295	Phage replication protein	Phage replication	4335515	4337809	
+fig|6666666.541064.peg.4295	CDS	LR740776.1	4338006	4339181	1176	orf98	- none -	4338006	4339181	
+fig|6666666.541064.peg.4296	CDS	LR740776.1	4339208	4340140	933	hypothetical protein	- none -	4339208	4340140	
+fig|6666666.541064.peg.4297	CDS	LR740776.1	4341131	4340148	984	DNA-cytosine methyltransferase (EC 2.1.1.37)	DNA repair, bacterial	4340148	4341131	
+fig|6666666.541064.peg.4298	CDS	LR740776.1	4341327	4341488	162	FIG00639694: hypothetical protein	- none -	4341327	4341488	
+fig|6666666.541064.peg.4299	CDS	LR740776.1	4342561	4341527	1035	Phage-related capsid packaging protein	Phage packaging machinery	4341527	4342561	
+fig|6666666.541064.peg.4300	CDS	LR740776.1	4344333	4342561	1773	Phage terminase, ATPase subunit	Phage packaging machinery	4342561	4344333	
+fig|6666666.541064.peg.4301	CDS	LR740776.1	4344507	4345361	855	Phage capsid scaffolding protein	Phage capsid proteins	4344507	4345361	
+fig|6666666.541064.peg.4302	CDS	LR740776.1	4345420	4346493	1074	Phage major capsid protein	Phage capsid proteins	4345420	4346493	
+fig|6666666.541064.peg.4303	CDS	LR740776.1	4346542	4347234	693	Phage terminase, endonuclease subunit	Phage packaging machinery	4346542	4347234	
+fig|6666666.541064.peg.4304	CDS	LR740776.1	4347370	4347843	474	Phage head completion-stabilization protein	Phage capsid proteins	4347370	4347843	
+fig|6666666.541064.peg.4305	CDS	LR740776.1	4347843	4348046	204	Phage tail completion protein	Phage tail proteins, Phage tail proteins 2	4347843	4348046	
+fig|6666666.541064.peg.4306	CDS	LR740776.1	4348050	4348331	282	Phage holin	Phage lysis modules	4348050	4348331	
+fig|6666666.541064.peg.4307	CDS	LR740776.1	4348331	4348828	498	Phage lysin, 1,4-beta-N-acetylmuramidase (EC 3.2.1.17) or lysozyme #Protein S in phage lambda	Phage lysis modules	4348331	4348828	
+fig|6666666.541064.peg.4308	CDS	LR740776.1	4348843	4349268	426	Phage holin; Phage endolysin	Phage lysis modules, Phage lysis modules	4348843	4349268	
+fig|6666666.541064.peg.4309	CDS	LR740776.1	4349256	4349681	426	Phage spanin Rz #LysB	Phage lysis modules	4349256	4349681	
+fig|6666666.541064.peg.4310	CDS	LR740776.1	4349668	4349826	159	Phage outer membrane lipoprotein Rz1	Phage lysis modules	4349668	4349826	
+fig|6666666.541064.peg.4311	CDS	LR740776.1	4349789	4350256	468	Phage tail protein # FIG072132 and FIG003673	Phage tail proteins	4349789	4350256	
+fig|6666666.541064.peg.4312	CDS	LR740776.1	4350249	4350701	453	Phage tail completion protein	Phage tail proteins, Phage tail proteins 2	4350249	4350701	
+fig|6666666.541064.peg.4313	CDS	LR740776.1	4350768	4351403	636	Baseplate assembly protein V	- none -	4350768	4351403	
+fig|6666666.541064.peg.4314	CDS	LR740776.1	4351400	4351747	348	Phage baseplate assembly protein W	- none -	4351400	4351747	
+fig|6666666.541064.peg.4315	CDS	LR740776.1	4351752	4352660	909	Baseplate assembly protein J	- none -	4351752	4352660	
+fig|6666666.541064.peg.4316	CDS	LR740776.1	4352653	4353264	612	Phage tail fibers	Phage tail fiber proteins	4352653	4353264	
+fig|6666666.541064.peg.4317	CDS	LR740776.1	4353261	4354916	1656	Phage tail fiber protein	Phage tail fiber proteins	4353261	4354916	
+fig|6666666.541064.peg.4318	CDS	LR740776.1	4354916	4355518	603	Putative tail fiber assembly protein p37	- none -	4354916	4355518	
+fig|6666666.541064.peg.4319	CDS	LR740776.1	4355580	4355735	156	Phage DNA invertase	- none -	4355580	4355735	
+fig|6666666.541064.peg.4320	CDS	LR740776.1	4355795	4356985	1191	Phage major tail sheath protein	Phage tail proteins	4355795	4356985	
+fig|6666666.541064.peg.4321	CDS	LR740776.1	4356998	4357516	519	Phage major tail tube protein	Phage tail proteins	4356998	4357516	
+fig|6666666.541064.peg.4322	CDS	LR740776.1	4357573	4357848	276	Tail protein	- none -	4357573	4357848	
+fig|6666666.541064.peg.4323	CDS	LR740776.1	4357845	4358000	156	putative phage tail protein	- none -	4357845	4358000	
+fig|6666666.541064.peg.4324	CDS	LR740776.1	4357993	4360440	2448	Phage protein	- none -	4357993	4360440	
+fig|6666666.541064.peg.4325	CDS	LR740776.1	4360455	4360934	480	Phage-related tail protein	- none -	4360455	4360934	
+fig|6666666.541064.peg.4326	CDS	LR740776.1	4360934	4362097	1164	Gene D protein	- none -	4360934	4362097	
+fig|6666666.541064.peg.4327	CDS	LR740776.1	4362143	4362397	255	putative positive regulator of late gene transcription	- none -	4362143	4362397	
+fig|6666666.541064.peg.4328	CDS	LR740776.1	4362633	4363535	903	Cobalt-zinc-cadmium resistance protein	Cobalt-zinc-cadmium resistance	4362633	4363535	
