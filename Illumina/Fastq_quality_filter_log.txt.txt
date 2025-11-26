@@ -1,0 +1,9 @@
+INPUT
+zcat -f < '/corral4/main/objects/8/f/9/dataset_8f959ea4-7a7c-44d0-8b04-c3fda5acbd5f.dat' | fastq_quality_filter -q 20 -p 90 -v -o '/corral4/main/jobs/072/423/72423209/outputs/dataset_9d1f1503-f450-45e9-8cae-a3f69e2d71e5.dat' -Q 33
+
+OUTPUT
+Quality cut-off: 20
+Minimum percentage: 90
+Input: 2476272 reads.
+Output: 1713025 reads.
+discarded 763247 (30%) low-quality reads.
