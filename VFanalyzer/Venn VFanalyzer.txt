@@ -1,0 +1,86 @@
+Names	total	elements
+Commensal ExPEC InPEC	58	fimE
+		hlyE/clyA
+		sitC
+		ecpB
+		ibeB
+		eaeH
+		chuW
+		aec25
+		ibeC
+		ecpC
+		sitB
+		ybtQ
+		sitD
+		aec17
+		fimD
+		aec24
+		fimI
+		espL1
+		aec15
+		hcpA
+		fimA
+		chuS
+		ybtS
+		hcpC
+		ybtE
+		ecpA
+		chuX
+		chuU
+		ehaB
+		Undetermined1
+		chuT
+		ybtX
+		fyuA
+		aec31
+		chuY
+		fimH
+		ybtT
+		upaG/ehaG
+		aec27/clpV
+		chuA
+		aec18
+		fimG
+		aec30
+		aec23
+		ecpR
+		aec26
+		aec16
+		fimC
+		ecpD
+		aec22
+		aec19
+		aec29
+		fimF
+		ybtP
+		hcpB
+		ecpE
+		ybtA
+		ybtU
+ExPEC InPEC	18	irp2
+		Undetermined (SCI-I T6SS)3
+		Undetermined (SCI-I T6SS)11
+		Undetermined (SCI-I T6SS)4
+		Undetermined (SCI-I T6SS)8
+		aec32
+		Undetermined (SCI-I T6SS)10
+		Undetermined (SCI-I T6SS)6
+		Undetermined (SCI-I T6SS)15
+		Undetermined (SCI-I T6SS)13
+		Undetermined (SCI-I T6SS)12
+		Undetermined (SCI-I T6SS)5
+		Undetermined (SCI-I T6SS)2
+		Undetermined (SCI-I T6SS)1
+		Undetermined (SCI-I T6SS)14
+		Undetermined (SCI-I T6SS)7
+		irp1
+		aec28
+ExPEC	6	vat
+		ibeA
+		Undetermined2
+		sitA
+		usp
+		Undetermined (SCI-I T6SS)9
+InPEC	3	lpfB
+		lpfC
+		lpfE
